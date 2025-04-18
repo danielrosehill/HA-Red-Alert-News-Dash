@@ -1,5 +1,7 @@
 # Home Assistant Dashboard For Red Alerts (Israel)
 
+This project provides a Home Assistant dashboard for monitoring real-time rocket alerts in Israel. It builds upon Amit Fin's [oref_alert](https://github.com/amitfin/oref_alert) integration, offering a visual monitoring solution for multiple alert zones.
+
 ## Dashboards
 
 ### Alerts only:
@@ -9,31 +11,6 @@
 News and alerts:
 
 ### ![alt text](screenshots/news.png)
-
-This project provides a Home Assistant dashboard for monitoring real-time rocket alerts in Israel. It builds upon Amit Fin's [oref_alert](https://github.com/amitfin/oref_alert) integration, offering a visual monitoring solution for multiple alert zones.
-
-## Table of Contents
-
-- [Home Assistant Dashboard For Red Alerts (Israel)](#home-assistant-dashboard-for-red-alerts-israel)
-  - [Dashboards](#dashboards)
-    - [Alerts only:](#alerts-only)
-    - [](#)
-  - [Table of Contents](#table-of-contents)
-  - [Disclaimer](#disclaimer)
-  - [Introduction](#introduction)
-  - [Why I Made This](#why-i-made-this)
-  - [Installation](#installation)
-    - [Prerequisites](#prerequisites)
-    - [Setup Steps](#setup-steps)
-  - [Configuration](#configuration)
-    - [Available Actions](#available-actions)
-    - [City Names (Hebrew)](#city-names-hebrew)
-    - [Adding Alert Sensors](#adding-alert-sensors)
-      - [Example: Adding A Single Area (Jerusalem Center)](#example-adding-a-single-area-jerusalem-center)
-      - [Example: Adding A Combined Sensor (Multiple Individual Alerting Zones)](#example-adding-a-combined-sensor-multiple-individual-alerting-zones)
-    - [Finding Your Sensors](#finding-your-sensors)
-  - [Dashboard Creation](#dashboard-creation)
-  - [Composite Blocks](#composite-blocks)
 
 ## Disclaimer
 
