@@ -1,0 +1,143 @@
+title: Rocket Alerts
+views:
+  - title: Alerts
+    path: alerts
+    icon: mdi:alert
+    cards:
+      - type: horizontal-stack
+        cards:
+          - type: vertical-stack
+            cards:
+              - type: markdown
+                content: "### 🚨 Primary Alerts"
+
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert
+                name: Jerusalem Center
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: green
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+
+              - type: markdown
+                content: "### 🌍 All of Israel"
+
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_all_areas
+                name: All of Israel
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#555'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+
+              - type: markdown
+                content: "### 🏙️ Jerusalem Zones"
+
+              - type: grid
+                columns: 3
+                square: false
+                cards:
+                  - type: custom:button-card
+                    entity: binary_sensor.oref_alert_jerusalemwholezone
+                    name: Jerusalem (Zone)
+                    icon: mdi:shield-check
+                    show_state: false
+                    styles:
+                      name:
+                        - color: white
+                        - font-weight: bold
+                      icon:
+                        - color: white
+                      card:
+                        - background-color: '#444'
+                    state:
+                      - value: 'on'
+                        icon: mdi:alert
+                        styles:
+                          card:
+                            - background-color: red
+                  - type: custom:button-card
+                    entity: binary_sensor.oref_alert_atarot
+                    name: Atarot
+                    icon: mdi:shield-check
+                    show_state: false
+                    styles:
+                      name:
+                        - color: white
+                        - font-weight: bold
+                      icon:
+                        - color: white
+                      card:
+                        - background-color: '#444'
+                    state:
+                      - value: 'on'
+                        icon: mdi:alert
+                        styles:
+                          card:
+                            - background-color: red
+                  - type: custom:button-card
+                    entity: binary_sensor.oref_alert_jerusalem_south
+                    name: South JLM
+                    icon: mdi:shield-check
+                    show_state: false
+                    styles:
+                      name:
+                        - color: white
+                        - font-weight: bold
+                      icon:
+                        - color: white
+                      card:
+                        - background-color: '#444'
+                    state:
+                      - value: 'on'
+                        icon: mdi:alert
+                        styles:
+                          card:
+                            - background-color: red
+
+          - type: vertical-stack
+            cards:
+              - type: markdown
+                content: "### 📰 News Feeds"
+
+              - type: iframe
+                url: https://www.timesofisrael.com/
+                aspect_ratio: 100%
+
+              - type: markdown
+                content: "### 📺 Kan Live"
+
+              - type: iframe
+                url: https://www.kan.org.il/live/
+                aspect_ratio: 100%
+
+              - type: markdown
+                content: "### 📡 Red Alert History"
+
+              - type: iframe
+                url: https://www.tzevaadom.co.il/en/historical/
+                aspect_ratio: 100%

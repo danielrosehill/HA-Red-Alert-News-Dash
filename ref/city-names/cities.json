@@ -1,0 +1,5878 @@
+[
+    {
+      "hebrew": "אבו גוש",
+      "english": "Abu Ghosh"
+    },
+    {
+      "hebrew": "אבו נוור",
+      "english": "Abu Nuwar"
+    },
+    {
+      "hebrew": "אבו סנאן",
+      "english": "Abu Sinan"
+    },
+    {
+      "hebrew": "אבו קרינאת",
+      "english": "Abu Qrenat"
+    },
+    {
+      "hebrew": "אבו תלול",
+      "english": "Abu Tulul"
+    },
+    {
+      "hebrew": "אבטליון",
+      "english": "Avtalion"
+    },
+    {
+      "hebrew": "אביאל",
+      "english": "Aviel"
+    },
+    {
+      "hebrew": "אביבים",
+      "english": "Avivim"
+    },
+    {
+      "hebrew": "אביגדור",
+      "english": "Avigdor"
+    },
+    {
+      "hebrew": "אביחיל",
+      "english": "Avihayil"
+    },
+    {
+      "hebrew": "אביעזר",
+      "english": "Aviezer"
+    },
+    {
+      "hebrew": "אבירים",
+      "english": "Abirim"
+    },
+    {
+      "hebrew": "אבן יהודה",
+      "english": "Even Yehuda"
+    },
+    {
+      "hebrew": "אבן מנחם",
+      "english": "Even Menachem"
+    },
+    {
+      "hebrew": "אבן ספיר",
+      "english": "Even Sapir"
+    },
+    {
+      "hebrew": "אבן שמואל",
+      "english": "Even Shmuel"
+    },
+    {
+      "hebrew": "אבני איתן",
+      "english": "Avnei Eitan"
+    },
+    {
+      "hebrew": "אבני חפץ",
+      "english": "Avnei Hefetz"
+    },
+    {
+      "hebrew": "אבנת",
+      "english": "Avnat"
+    },
+    {
+      "hebrew": "אבשלום",
+      "english": "Avshalom"
+    },
+    {
+      "hebrew": "אדורה",
+      "english": "Adora"
+    },
+    {
+      "hebrew": "אדוריים",
+      "english": "Adorayim"
+    },
+    {
+      "hebrew": "אדמית",
+      "english": "Adamit"
+    },
+    {
+      "hebrew": "אדרת",
+      "english": "Aderet"
+    },
+    {
+      "hebrew": "אודים",
+      "english": "Udim"
+    },
+    {
+      "hebrew": "אודם",
+      "english": "Odem"
+    },
+    {
+      "hebrew": "אום אל פחם",
+      "english": "Umm al-Fahm"
+    },
+    {
+      "hebrew": "אום אל קוטוף",
+      "english": "Umm al-Qutuf"
+    },
+    {
+      "hebrew": "אום אלג'נם",
+      "english": "Umm al-Ghanam"
+    },
+    {
+      "hebrew": "אום בטין",
+      "english": "Umm Batin"
+    },
+    {
+      "hebrew": "אופקים",
+      "english": "Ofakim"
+    },
+    {
+      "hebrew": "אור הגנוז",
+      "english": "Or HaGanuz"
+    },
+    {
+      "hebrew": "אור הנר",
+      "english": "Or HaNer"
+    },
+    {
+      "hebrew": "אור יהודה",
+      "english": "Or Yehuda"
+    },
+    {
+      "hebrew": "אור עקיבא",
+      "english": "Or Akiva"
+    },
+    {
+      "hebrew": "אורה",
+      "english": "Ora"
+    },
+    {
+      "hebrew": "אורון תעשייה ומסחר",
+      "english": "Oron Industry and Commerce"
+    },
+    {
+      "hebrew": "אורות",
+      "english": "Orot"
+    },
+    {
+      "hebrew": "אורטל",
+      "english": "Ortal"
+    },
+    {
+      "hebrew": "אורים",
+      "english": "Urim"
+    },
+    {
+      "hebrew": "אורנים",
+      "english": "Oranim"
+    },
+    {
+      "hebrew": "אורנית",
+      "english": "Oranit"
+    },
+    {
+      "hebrew": "אושה",
+      "english": "Usha"
+    },
+    {
+      "hebrew": "אזור",
+      "english": "Azor"
+    },
+    {
+      "hebrew": "אזור תעשייה אלון התבור",
+      "english": "Alon Tavor Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה אפק ולב הארץ",
+      "english": "Afek and Lev HaAretz Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה אריאל",
+      "english": "Ariel Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה באר טוביה",
+      "english": "Beer Tuvia Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה בני יהודה",
+      "english": "Bnei Yehuda Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה בר-לב",
+      "english": "Bar-Lev Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה בראון",
+      "english": "Brown Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה ברוש",
+      "english": "Brosh Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה ברקן",
+      "english": "Barkan Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה גדרה",
+      "english": "Gedera Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה דימונה",
+      "english": "Dimona Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה הדרומי אשקלון",
+      "english": "Southern Ashkelon Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה הר טוב - צרעה",
+      "english": "Har Tov - Tzora Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה חבל מודיעין",
+      "english": "Hevel Modi'in Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה חצור הגלילית",
+      "english": "Hatzor HaGlilit Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה טירה",
+      "english": "Tira Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה טמרה",
+      "english": "Tamra Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה יקנעם עילית",
+      "english": "Yokneam Illit Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה כנות",
+      "english": "Kanot Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה כפר יונה",
+      "english": "Kfar Yona Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה כרמיאל",
+      "english": "Karmiel Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה מבוא כרמל",
+      "english": "Mevo Carmel Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה מבואות הגלבוע",
+      "english": "Mevo'ot HaGilboa Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה מישור אדומים",
+      "english": "Mishor Adumim Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה מיתרים",
+      "english": "Meitarim Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה נ.ע.מ",
+      "english": "N.A.M Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה ניר עציון",
+      "english": "Nir Etzion Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה נשר - רמלה",
+      "english": "Nesher - Ramla Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה עד הלום",
+      "english": "Ad Halom Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה עידן הנגב",
+      "english": "Idan HaNegev Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה עמק חפר",
+      "english": "Emek Hefer Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה צ.ח.ר",
+      "english": "Tzahar Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה צבאים",
+      "english": "Tzva'im Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה ציפורית",
+      "english": "Tziporit Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה צפוני אשקלון",
+      "english": "Northern Ashkelon Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה קדמת גליל",
+      "english": "Kidmat Galil Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה קיסריה",
+      "english": "Caesarea Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה קריית ביאליק",
+      "english": "Kiryat Bialik Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה קריית גת",
+      "english": "Kiryat Gat Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה רבדים",
+      "english": "Revadim Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה רגבים",
+      "english": "Regavim Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה רגמ",
+      "english": "Regam Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה רותם",
+      "english": "Rotem Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה רמת דלתון",
+      "english": "Ramat Dalton Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה שחורת",
+      "english": "Shaharut Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה שחק",
+      "english": "Shahak Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה שער בנימין",
+      "english": "Sha'ar Binyamin Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה שער נעמן",
+      "english": "Sha'ar Na'aman Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה תימורים",
+      "english": "Timorim Industrial Zone"
+    },
+    {
+      "hebrew": "אזור תעשייה תרדיון",
+      "english": "Teradion Industrial Zone"
+    },
+    {
+      "hebrew": "אחווה",
+      "english": "Ahava"
+    },
+    {
+      "hebrew": "אחוזם",
+      "english": "Ahuzam"
+    },
+    {
+      "hebrew": "אחוזת ברק",
+      "english": "Ahuzat Barak"
+    },
+    {
+      "hebrew": "אחיה",
+      "english": "Achiya"
+    },
+    {
+      "hebrew": "אחיהוד",
+      "english": "Ahihud"
+    },
+    {
+      "hebrew": "אחיטוב",
+      "english": "Ahituv"
+    },
+    {
+      "hebrew": "אחיסמך",
+      "english": "Ahisamakh"
+    },
+    {
+      "hebrew": "אחיעזר",
+      "english": "Ahiezer"
+    },
+    {
+      "hebrew": "איבטין",
+      "english": "Ibtin"
+    },
+    {
+      "hebrew": "איזור תעשייה מילואות צפון",
+      "english": "Miluot North Industrial Zone"
+    },
+    {
+      "hebrew": "אייל",
+      "english": "Eyal"
+    },
+    {
+      "hebrew": "איילת השחר",
+      "english": "Ayelet HaShahar"
+    },
+    {
+      "hebrew": "איירפורט סיטי",
+      "english": "Airport City"
+    },
+    {
+      "hebrew": "אילון",
+      "english": "Eilon"
+    },
+    {
+      "hebrew": "אילות",
+      "english": "Eilot"
+    },
+    {
+      "hebrew": "אילניה",
+      "english": "Ilaniya"
+    },
+    {
+      "hebrew": "אילת",
+      "english": "Eilat"
+    },
+    {
+      "hebrew": "אירוס",
+      "english": "Irus"
+    },
+    {
+      "hebrew": "איתמר",
+      "english": "Itamar"
+    },
+    {
+      "hebrew": "איתן",
+      "english": "Eitan"
+    },
+    {
+      "hebrew": "אכסאל",
+      "english": "Iksal"
+    },
+    {
+      "hebrew": "אל סייד",
+      "english": "Al-Sayyid"
+    },
+    {
+      "hebrew": "אל עזי",
+      "english": "Al Azi"
+    },
+    {
+      "hebrew": "אל עמארני, אל מסק",
+      "english": "Al Amarni, Al Mask"
+    },
+    {
+      "hebrew": "אל עריאן",
+      "english": "Al Aryan"
+    },
+    {
+      "hebrew": "אל פורעה",
+      "english": "Al Furaa"
+    },
+    {
+      "hebrew": "אל רום",
+      "english": "El Rom"
+    },
+    {
+      "hebrew": "אל-ח'וואלד מערב",
+      "english": "Al-Khawaled West"
+    },
+    {
+      "hebrew": "אלומה",
+      "english": "Alumah"
+    },
+    {
+      "hebrew": "אלומות",
+      "english": "Alumot"
+    },
+    {
+      "hebrew": "אלון",
+      "english": "Alon"
+    },
+    {
+      "hebrew": "אלון הגליל",
+      "english": "Alon HaGalil"
+    },
+    {
+      "hebrew": "אלון מורה",
+      "english": "Alon Moreh"
+    },
+    {
+      "hebrew": "אלון שבות",
+      "english": "Alon Shvut"
+    },
+    {
+      "hebrew": "אלוני אבא",
+      "english": "Alonei Abba"
+    },
+    {
+      "hebrew": "אלוני הבשן",
+      "english": "Alonei HaBashan"
+    },
+    {
+      "hebrew": "אלוני יצחק",
+      "english": "Alonei Yitzhak"
+    },
+    {
+      "hebrew": "אלונים",
+      "english": "Alonim"
+    },
+    {
+      "hebrew": "אלי עד",
+      "english": "Eli Ad"
+    },
+    {
+      "hebrew": "אליאב",
+      "english": "Eliav"
+    },
+    {
+      "hebrew": "אליכין",
+      "english": "Elyakhin"
+    },
+    {
+      "hebrew": "אליפז ומכרות תמנע",
+      "english": "Elifaz and Timna Mines"
+    },
+    {
+      "hebrew": "אליפלט",
+      "english": "Elifelet"
+    },
+    {
+      "hebrew": "אליקים",
+      "english": "Elyakim"
+    },
+    {
+      "hebrew": "אלישיב",
+      "english": "Elyashiv"
+    },
+    {
+      "hebrew": "אלישמע",
+      "english": "Elishama"
+    },
+    {
+      "hebrew": "אלמגור",
+      "english": "Almagor"
+    },
+    {
+      "hebrew": "אלמוג",
+      "english": "Almog"
+    },
+    {
+      "hebrew": "אלעד",
+      "english": "Elad"
+    },
+    {
+      "hebrew": "אלעזר",
+      "english": "Elazar"
+    },
+    {
+      "hebrew": "אלפי מנשה",
+      "english": "Alfei Menashe"
+    },
+    {
+      "hebrew": "אלקוש",
+      "english": "Elkosh"
+    },
+    {
+      "hebrew": "אלקנה",
+      "english": "Elkana"
+    },
+    {
+      "hebrew": "אמונים",
+      "english": "Emunim"
+    },
+    {
+      "hebrew": "אמירים",
+      "english": "Amirim"
+    },
+    {
+      "hebrew": "אמנון",
+      "english": "Amnun"
+    },
+    {
+      "hebrew": "אמץ",
+      "english": "Ametz"
+    },
+    {
+      "hebrew": "אמציה",
+      "english": "Amatzya"
+    },
+    {
+      "hebrew": "אניעם",
+      "english": "Ani'am"
+    },
+    {
+      "hebrew": "אעבלין",
+      "english": "I'billin"
+    },
+    {
+      "hebrew": "אפיק",
+      "english": "Afik"
+    },
+    {
+      "hebrew": "אפיקים",
+      "english": "Afikim"
+    },
+    {
+      "hebrew": "אפק",
+      "english": "Afek"
+    },
+    {
+      "hebrew": "אפרת",
+      "english": "Efrat"
+    },
+    {
+      "hebrew": "ארבל",
+      "english": "Arbel"
+    },
+    {
+      "hebrew": "ארגמן",
+      "english": "Argaman"
+    },
+    {
+      "hebrew": "ארז",
+      "english": "Erez"
+    },
+    {
+      "hebrew": "אריאל",
+      "english": "Ariel"
+    },
+    {
+      "hebrew": "ארסוף",
+      "english": "Arsuf"
+    },
+    {
+      "hebrew": "אשבול",
+      "english": "Eshbol"
+    },
+    {
+      "hebrew": "אשבל",
+      "english": "Eshbal"
+    },
+    {
+      "hebrew": "אשדוד - א,ב,ד,ה",
+      "english": "Ashdod - A,B,D,E"
+    },
+    {
+      "hebrew": "אשדוד - איזור תעשייה צפוני",
+      "english": "Ashdod - Northern Industrial Zone"
+    },
+    {
+      "hebrew": "אשדוד - ג,ו,ז",
+      "english": "Ashdod - C,F,G"
+    },
+    {
+      "hebrew": "אשדוד - ח,ט,י,יג,יד,טז",
+      "english": "Ashdod - H,I,J,M,N,P"
+    },
+    {
+      "hebrew": "אשדוד - כל האזורים",
+      "english": "Ashdod - All Areas"
+    },
+    {
+      "hebrew": "אשדוד -יא,יב,טו,יז,מרינה,סיטי",
+      "english": "Ashdod - K,L,O,Q,Marina,City"
+    },
+    {
+      "hebrew": "אשדות יעקב",
+      "english": "Ashdot Ya'akov"
+    },
+    {
+      "hebrew": "אשחר",
+      "english": "Eshhar"
+    },
+    {
+      "hebrew": "אשכולות",
+      "english": "Eshkolot"
+    },
+    {
+      "hebrew": "אשל הנשיא",
+      "english": "Eshel HaNasi"
+    },
+    {
+      "hebrew": "אשלים",
+      "english": "Ashalim"
+    },
+    {
+      "hebrew": "אשקלון - דרום",
+      "english": "Ashkelon - South"
+    },
+    {
+      "hebrew": "אשקלון - כל האזורים",
+      "english": "Ashkelon - All Areas"
+    },
+    {
+      "hebrew": "אשקלון - צפון",
+      "english": "Ashkelon - North"
+    },
+    {
+      "hebrew": "אשרת",
+      "english": "Oshrat"
+    },
+    {
+      "hebrew": "אשתאול",
+      "english": "Eshtaol"
+    },
+    {
+      "hebrew": "אתר דודאים",
+      "english": "Dudaim Site"
+    },
+    {
+      "hebrew": "אתר ההנצחה גולני",
+      "english": "Golani Memorial Site"
+    },
+    {
+      "hebrew": "באקה אל גרבייה",
+      "english": "Baqa al-Gharbiyye"
+    },
+    {
+      "hebrew": "באר אורה",
+      "english": "Be'er Ora"
+    },
+    {
+      "hebrew": "באר גנים",
+      "english": "Be'er Ganim"
+    },
+    {
+      "hebrew": "באר טוביה",
+      "english": "Be'er Tuvia"
+    },
+    {
+      "hebrew": "באר יעקב",
+      "english": "Be'er Ya'akov"
+    },
+    {
+      "hebrew": "באר מילכה",
+      "english": "Be'er Milka"
+    },
+    {
+      "hebrew": "באר שבע - דרום",
+      "english": "Be'er Sheva - South"
+    },
+    {
+      "hebrew": "באר שבע - כל האזורים",
+      "english": "Be'er Sheva - All Areas"
+    },
+    {
+      "hebrew": "באר שבע - מזרח",
+      "english": "Be'er Sheva - East"
+    },
+    {
+      "hebrew": "באר שבע - מערב",
+      "english": "Be'er Sheva - West"
+    },
+    {
+      "hebrew": "באר שבע - צפון",
+      "english": "Be'er Sheva - North"
+    },
+    {
+      "hebrew": "בארות יצחק",
+      "english": "Be'erot Yitzhak"
+    },
+    {
+      "hebrew": "בארותיים",
+      "english": "Be'erotayim"
+    },
+    {
+      "hebrew": "בארי",
+      "english": "Be'eri"
+    },
+    {
+      "hebrew": "בוסתן הגליל",
+      "english": "Bustan HaGalil"
+    },
+    {
+      "hebrew": "בועיינה-נוג'ידאת",
+      "english": "Bu'eine Nujeidat"
+    },
+    {
+      "hebrew": "בוקעתא",
+      "english": "Buq'ata"
+    },
+    {
+      "hebrew": "בורגתה",
+      "english": "Burgata"
+    },
+    {
+      "hebrew": "בחן",
+      "english": "Bahan"
+    },
+    {
+      "hebrew": "בטחה",
+      "english": "Bitcha"
+    },
+    {
+      "hebrew": "ביצרון",
+      "english": "Bitzaron"
+    },
+    {
+      "hebrew": "ביר אלמכסור",
+      "english": "Bir al-Maksur"
+    },
+    {
+      "hebrew": "ביר הדאג'",
+      "english": "Bir Hadaj"
+    },
+    {
+      "hebrew": "ביריה",
+      "english": "Biriya"
+    },
+    {
+      "hebrew": "בית אורן",
+      "english": "Beit Oren"
+    },
+    {
+      "hebrew": "בית אל",
+      "english": "Beit El"
+    },
+    {
+      "hebrew": "בית אלעזרי",
+      "english": "Beit Elazari"
+    },
+    {
+      "hebrew": "בית אלפא וחפציבה",
+      "english": "Beit Alfa and Heftziba"
+    },
+    {
+      "hebrew": "בית אריה",
+      "english": "Beit Arye"
+    },
+    {
+      "hebrew": "בית ברל",
+      "english": "Beit Berl"
+    },
+    {
+      "hebrew": "בית ג'אן",
+      "english": "Beit Jann"
+    },
+    {
+      "hebrew": "בית גוברין",
+      "english": "Beit Guvrin"
+    },
+    {
+      "hebrew": "בית גמליאל",
+      "english": "Beit Gamliel"
+    },
+    {
+      "hebrew": "בית דגן",
+      "english": "Beit Dagan"
+    },
+    {
+      "hebrew": "בית הגדי",
+      "english": "Beit HaGadi"
+    },
+    {
+      "hebrew": "בית הלוי",
+      "english": "Beit HaLevi"
+    },
+    {
+      "hebrew": "בית הלל",
+      "english": "Beit Hillel"
+    },
+    {
+      "hebrew": "בית העלמין החדש נהריה",
+      "english": "New Cemetery Nahariya"
+    },
+    {
+      "hebrew": "בית העלמין החדש עכו",
+      "english": "New Cemetery Acre"
+    },
+    {
+      "hebrew": "בית העמק",
+      "english": "Beit HaEmek"
+    },
+    {
+      "hebrew": "בית הערבה",
+      "english": "Beit HaArava"
+    },
+    {
+      "hebrew": "בית השיטה",
+      "english": "Beit HaShita"
+    },
+    {
+      "hebrew": "בית זית",
+      "english": "Beit Zayit"
+    },
+    {
+      "hebrew": "בית זרע",
+      "english": "Beit Zera"
+    },
+    {
+      "hebrew": "בית חג\"י",
+      "english": "Beit Hagai"
+    },
+    {
+      "hebrew": "בית חורון",
+      "english": "Beit Horon"
+    },
+    {
+      "hebrew": "בית חזון",
+      "english": "Beit Hazon"
+    },
+    {
+      "hebrew": "בית חלקיה",
+      "english": "Beit Hilkiya"
+    },
+    {
+      "hebrew": "בית חנן",
+      "english": "Beit Hanan"
+    },
+    {
+      "hebrew": "בית חנניה",
+      "english": "Beit Hanania"
+    },
+    {
+      "hebrew": "בית חרות",
+      "english": "Beit Herut"
+    },
+    {
+      "hebrew": "בית חשמונאי",
+      "english": "Beit Hashmonai"
+    },
+    {
+      "hebrew": "בית יהושע",
+      "english": "Beit Yehoshua"
+    },
+    {
+      "hebrew": "בית יוסף",
+      "english": "Beit Yosef"
+    },
+    {
+      "hebrew": "בית ינאי",
+      "english": "Beit Yanai"
+    },
+    {
+      "hebrew": "בית יצחק - שער חפר",
+      "english": "Beit Yitzhak - Sha'ar Hefer"
+    },
+    {
+      "hebrew": "בית ירח",
+      "english": "Beit Yerah"
+    },
+    {
+      "hebrew": "בית יתיר",
+      "english": "Beit Yatir"
+    },
+    {
+      "hebrew": "בית לחם הגלילית",
+      "english": "Bethlehem of Galilee"
+    },
+    {
+      "hebrew": "בית מאיר",
+      "english": "Beit Meir"
+    },
+    {
+      "hebrew": "בית נחמיה",
+      "english": "Beit Nehemia"
+    },
+    {
+      "hebrew": "בית ניר",
+      "english": "Beit Nir"
+    },
+    {
+      "hebrew": "בית נקופה",
+      "english": "Beit Nekofa"
+    },
+    {
+      "hebrew": "בית סוהר השרון",
+      "english": "HaSharon Prison"
+    },
+    {
+      "hebrew": "בית סוהר מגידו",
+      "english": "Megiddo Prison"
+    },
+    {
+      "hebrew": "בית סוהר נפחא",
+      "english": "Nafha Prison"
+    },
+    {
+      "hebrew": "בית סוהר צלמון",
+      "english": "Tzalmon Prison"
+    },
+    {
+      "hebrew": "בית סוהר קישון",
+      "english": "Kishon Prison"
+    },
+    {
+      "hebrew": "בית סוהר שיטה וגלבוע",
+      "english": "Shita and Gilboa Prison"
+    },
+    {
+      "hebrew": "בית ספר אורט בנימינה",
+      "english": "ORT School Binyamina"
+    },
+    {
+      "hebrew": "בית ספר שדה מירון",
+      "english": "Meron Field School"
+    },
+    {
+      "hebrew": "בית עובד",
+      "english": "Beit Oved"
+    },
+    {
+      "hebrew": "בית עוזיאל",
+      "english": "Beit Uziel"
+    },
+    {
+      "hebrew": "בית עזרא",
+      "english": "Beit Ezra"
+    },
+    {
+      "hebrew": "בית עלמין מורשה",
+      "english": "Morasha Cemetery"
+    },
+    {
+      "hebrew": "בית עלמין תל רגב",
+      "english": "Tel Regev Cemetery"
+    },
+    {
+      "hebrew": "בית עריף",
+      "english": "Beit Arif"
+    },
+    {
+      "hebrew": "בית צבי",
+      "english": "Beit Tzvi"
+    },
+    {
+      "hebrew": "בית קמה",
+      "english": "Beit Kama"
+    },
+    {
+      "hebrew": "בית קשת",
+      "english": "Beit Keshet"
+    },
+    {
+      "hebrew": "בית רימון",
+      "english": "Beit Rimon"
+    },
+    {
+      "hebrew": "בית שאן",
+      "english": "Beit She'an"
+    },
+    {
+      "hebrew": "בית שמש",
+      "english": "Beit Shemesh"
+    },
+    {
+      "hebrew": "בית שערים",
+      "english": "Beit She'arim"
+    },
+    {
+      "hebrew": "בית שקמה",
+      "english": "Beit Shikma"
+    },
+    {
+      "hebrew": "ביתן אהרן",
+      "english": "Bitan Aharon"
+    },
+    {
+      "hebrew": "ביתר עילית",
+      "english": "Beitar Illit"
+    },
+    {
+      "hebrew": "בלפוריה",
+      "english": "Balfouria"
+    },
+    {
+      "hebrew": "בן זכאי",
+      "english": "Ben Zakkai"
+    },
+    {
+      "hebrew": "בן עמי",
+      "english": "Ben Ami"
+    },
+    {
+      "hebrew": "בן שמן",
+      "english": "Ben Shemen"
+    },
+    {
+      "hebrew": "בני ברק",
+      "english": "Bnei Brak"
+    },
+    {
+      "hebrew": "בני דקלים",
+      "english": "Bnei Dekalim"
+    },
+    {
+      "hebrew": "בני דרום",
+      "english": "Bnei Darom"
+    },
+    {
+      "hebrew": "בני דרור",
+      "english": "Bnei Dror"
+    },
+    {
+      "hebrew": "בני יהודה וגבעת יואב",
+      "english": "Bnei Yehuda and Giv'at Yo'av"
+    },
+    {
+      "hebrew": "בני נצרים",
+      "english": "Bnei Netzarim"
+    },
+    {
+      "hebrew": "בני עטרות",
+      "english": "Bnei Atarot"
+    },
+    {
+      "hebrew": "בני עי\"ש",
+      "english": "Bnei Ayish"
+    },
+    {
+      "hebrew": "בני ציון",
+      "english": "Bnei Zion"
+    },
+    {
+      "hebrew": "בני ראם",
+      "english": "Bnei Re'em"
+    },
+    {
+      "hebrew": "בניה",
+      "english": "Bnaya"
+    },
+    {
+      "hebrew": "בנימינה",
+      "english": "Binyamina"
+    },
+    {
+      "hebrew": "בסמת טבעון",
+      "english": "Basmat Tab'un"
+    },
+    {
+      "hebrew": "בענה",
+      "english": "Bi'ina"
+    },
+    {
+      "hebrew": "בצרה",
+      "english": "Batzra"
+    },
+    {
+      "hebrew": "בצת",
+      "english": "Betzet"
+    },
+    {
+      "hebrew": "בקוע",
+      "english": "Bekoa"
+    },
+    {
+      "hebrew": "בקעות",
+      "english": "Bekaot"
+    },
+    {
+      "hebrew": "בר גיורא",
+      "english": "Bar Giora"
+    },
+    {
+      "hebrew": "בר יוחאי",
+      "english": "Bar Yochai"
+    },
+    {
+      "hebrew": "ברוכין",
+      "english": "Bruchin"
+    },
+    {
+      "hebrew": "ברור חיל",
+      "english": "Beror Hayil"
+    },
+    {
+      "hebrew": "ברוש",
+      "english": "Brosh"
+    },
+    {
+      "hebrew": "ברחבי הארץ",
+      "english": "Berechavei Haarets"
+    },
+    {
+      "hebrew": "ברטעה",
+      "english": "Bartaa"
+    },
+    {
+      "hebrew": "ברכיה",
+      "english": "Berekhya"
+    },
+    {
+      "hebrew": "ברעם",
+      "english": "Bar'am"
+    },
+    {
+      "hebrew": "ברקאי",
+      "english": "Barkai"
+    },
+    {
+      "hebrew": "ברקן",
+      "english": "Barkan"
+    },
+    {
+      "hebrew": "ברקת",
+      "english": "Bareket"
+    },
+    {
+      "hebrew": "בת הדר",
+      "english": "Bat Hadar"
+    },
+    {
+      "hebrew": "בת חן",
+      "english": "Bat Hen"
+    },
+    {
+      "hebrew": "בת חפר",
+      "english": "Bat Hefer"
+    },
+    {
+      "hebrew": "בת ים",
+      "english": "Bat Yam"
+    },
+    {
+      "hebrew": "בת עין",
+      "english": "Bat Ayin"
+    },
+    {
+      "hebrew": "בת שלמה",
+      "english": "Bat Shlomo"
+    },
+    {
+      "hebrew": "בתי מלון ים המלח",
+      "english": "Dead Sea Hotels"
+    },
+    {
+      "hebrew": "ג'דידה מכר",
+      "english": "Jadeidi-Makr"
+    },
+    {
+      "hebrew": "ג'וליס",
+      "english": "Julis"
+    },
+    {
+      "hebrew": "ג'לג'וליה",
+      "english": "Jaljulia"
+    },
+    {
+      "hebrew": "ג'סר א-זרקא",
+      "english": "Jisr az-Zarqa"
+    },
+    {
+      "hebrew": "ג'ש - גוש חלב",
+      "english": "Jish - Gush Halav"
+    },
+    {
+      "hebrew": "ג'ת",
+      "english": "Jatt"
+    },
+    {
+      "hebrew": "גאולי תימן",
+      "english": "Geulei Teiman"
+    },
+    {
+      "hebrew": "גאולים",
+      "english": "Ge'ulim"
+    },
+    {
+      "hebrew": "גאליה",
+      "english": "Ge'alya"
+    },
+    {
+      "hebrew": "גבולות",
+      "english": "Gevulot"
+    },
+    {
+      "hebrew": "גבים, מכללת ספיר",
+      "english": "Gevim, Sapir College"
+    },
+    {
+      "hebrew": "גבע בנימין",
+      "english": "Geva Binyamin"
+    },
+    {
+      "hebrew": "גבע כרמל",
+      "english": "Geva Carmel"
+    },
+    {
+      "hebrew": "גבעון החדשה",
+      "english": "Giv'on HaHadasha"
+    },
+    {
+      "hebrew": "גבעות",
+      "english": "Geva'ot"
+    },
+    {
+      "hebrew": "גבעות בר",
+      "english": "Giv'ot Bar"
+    },
+    {
+      "hebrew": "גבעות גורל",
+      "english": "Giv'ot Goral"
+    },
+    {
+      "hebrew": "גבעות עדן",
+      "english": "Giv'ot Eden"
+    },
+    {
+      "hebrew": "גבעת אבני",
+      "english": "Giv'at Avni"
+    },
+    {
+      "hebrew": "גבעת אלה",
+      "english": "Giv'at Ela"
+    },
+    {
+      "hebrew": "גבעת אסף",
+      "english": "Giv'at Assaf"
+    },
+    {
+      "hebrew": "גבעת ברנר",
+      "english": "Giv'at Brenner"
+    },
+    {
+      "hebrew": "גבעת הראל וגבעת הרואה",
+      "english": "Giv'at HaRe'el and Giv'at HaRo'eh"
+    },
+    {
+      "hebrew": "גבעת השלושה",
+      "english": "Giv'at HaShlosha"
+    },
+    {
+      "hebrew": "גבעת וולפסון",
+      "english": "Giv'at Wolfson"
+    },
+    {
+      "hebrew": "גבעת וושינגטון",
+      "english": "Giv'at Washington"
+    },
+    {
+      "hebrew": "גבעת זאב",
+      "english": "Giv'at Ze'ev"
+    },
+    {
+      "hebrew": "גבעת חביבה",
+      "english": "Giv'at Haviva"
+    },
+    {
+      "hebrew": "גבעת חיים איחוד",
+      "english": "Giv'at Haim Ihud"
+    },
+    {
+      "hebrew": "גבעת חיים מאוחד",
+      "english": "Giv'at Haim Meuhad"
+    },
+    {
+      "hebrew": "גבעת חן",
+      "english": "Giv'at Hen"
+    },
+    {
+      "hebrew": "גבעת יערים",
+      "english": "Giv'at Ye'arim"
+    },
+    {
+      "hebrew": "גבעת ישעיהו",
+      "english": "Giv'at Yesha'yahu"
+    },
+    {
+      "hebrew": "גבעת כ\"ח",
+      "english": "Giv'at Koah"
+    },
+    {
+      "hebrew": "גבעת ניל\"י",
+      "english": "Giv'at NILI"
+    },
+    {
+      "hebrew": "גבעת עדה",
+      "english": "Giv'at Ada"
+    },
+    {
+      "hebrew": "גבעת עוז",
+      "english": "Giv'at Oz"
+    },
+    {
+      "hebrew": "גבעת שמואל",
+      "english": "Giv'at Shmuel"
+    },
+    {
+      "hebrew": "גבעת שפירא",
+      "english": "Giv'at Shapira"
+    },
+    {
+      "hebrew": "גבעתי",
+      "english": "Giv'ati"
+    },
+    {
+      "hebrew": "גבעתיים",
+      "english": "Givatayim"
+    },
+    {
+      "hebrew": "גברעם",
+      "english": "Gevar'am"
+    },
+    {
+      "hebrew": "גבת",
+      "english": "Gvat"
+    },
+    {
+      "hebrew": "גדות",
+      "english": "Gadot"
+    },
+    {
+      "hebrew": "גדעונה",
+      "english": "Gid'ona"
+    },
+    {
+      "hebrew": "גדרה",
+      "english": "Gedera"
+    },
+    {
+      "hebrew": "גונן",
+      "english": "Gonen"
+    },
+    {
+      "hebrew": "גורן",
+      "english": "Goren"
+    },
+    {
+      "hebrew": "גורנות הגליל",
+      "english": "Gornot HaGalil"
+    },
+    {
+      "hebrew": "גזית",
+      "english": "Gazit"
+    },
+    {
+      "hebrew": "גזר",
+      "english": "Gezer"
+    },
+    {
+      "hebrew": "גיאה",
+      "english": "Geya"
+    },
+    {
+      "hebrew": "גיבתון",
+      "english": "Gibton"
+    },
+    {
+      "hebrew": "גיזו",
+      "english": "Gizo"
+    },
+    {
+      "hebrew": "גילת",
+      "english": "Gilat"
+    },
+    {
+      "hebrew": "גינוסר",
+      "english": "Ginosar"
+    },
+    {
+      "hebrew": "גינתון",
+      "english": "Ginaton"
+    },
+    {
+      "hebrew": "גיתה",
+      "english": "Gita"
+    },
+    {
+      "hebrew": "גיתית",
+      "english": "Gitit"
+    },
+    {
+      "hebrew": "גלאון",
+      "english": "Gal'on"
+    },
+    {
+      "hebrew": "גלגל",
+      "english": "Gilgal"
+    },
+    {
+      "hebrew": "גלעד",
+      "english": "Gilad"
+    },
+    {
+      "hebrew": "גמזו",
+      "english": "Gimzo"
+    },
+    {
+      "hebrew": "גן הדרום",
+      "english": "Gan HaDarom"
+    },
+    {
+      "hebrew": "גן השומרון",
+      "english": "Gan HaShomron"
+    },
+    {
+      "hebrew": "גן חיים",
+      "english": "Gan Haim"
+    },
+    {
+      "hebrew": "גן יאשיה",
+      "english": "Gan Yoshiya"
+    },
+    {
+      "hebrew": "גן יבנה",
+      "english": "Gan Yavne"
+    },
+    {
+      "hebrew": "גן נר",
+      "english": "Gan Ner"
+    },
+    {
+      "hebrew": "גן שורק",
+      "english": "Gan Sorek"
+    },
+    {
+      "hebrew": "גן שלמה",
+      "english": "Gan Shlomo"
+    },
+    {
+      "hebrew": "גן שמואל",
+      "english": "Gan Shmuel"
+    },
+    {
+      "hebrew": "גנות",
+      "english": "Ganot"
+    },
+    {
+      "hebrew": "גנות הדר",
+      "english": "Ganot Hadar"
+    },
+    {
+      "hebrew": "גני הדר",
+      "english": "Ganei Hadar"
+    },
+    {
+      "hebrew": "גני חוגה",
+      "english": "Ganei Huga"
+    },
+    {
+      "hebrew": "גני טל",
+      "english": "Ganei Tal"
+    },
+    {
+      "hebrew": "גני יוחנן",
+      "english": "Ganei Yohanan"
+    },
+    {
+      "hebrew": "גני עם",
+      "english": "Ganei Am"
+    },
+    {
+      "hebrew": "גני תקווה",
+      "english": "Ganei Tikva"
+    },
+    {
+      "hebrew": "גניגר",
+      "english": "Genigar"
+    },
+    {
+      "hebrew": "געש",
+      "english": "Ga'ash"
+    },
+    {
+      "hebrew": "געתון",
+      "english": "Ga'aton"
+    },
+    {
+      "hebrew": "גפן",
+      "english": "Gefen"
+    },
+    {
+      "hebrew": "גרופית",
+      "english": "Grofit"
+    },
+    {
+      "hebrew": "גשור",
+      "english": "Geshur"
+    },
+    {
+      "hebrew": "גשר",
+      "english": "Gesher"
+    },
+    {
+      "hebrew": "גשר הזיו",
+      "english": "Gesher HaZiv"
+    },
+    {
+      "hebrew": "גת",
+      "english": "Gat"
+    },
+    {
+      "hebrew": "גת רימון",
+      "english": "Gat Rimon"
+    },
+    {
+      "hebrew": "דבוריה",
+      "english": "Daburiyya"
+    },
+    {
+      "hebrew": "דביר",
+      "english": "Dvir"
+    },
+    {
+      "hebrew": "דברת",
+      "english": "Devora"
+    },
+    {
+      "hebrew": "דגניה א",
+      "english": "Degania Alef"
+    },
+    {
+      "hebrew": "דגניה ב",
+      "english": "Degania Bet"
+    },
+    {
+      "hebrew": "דוב\"ב",
+      "english": "Dovev"
+    },
+    {
+      "hebrew": "דולב",
+      "english": "Dolev"
+    },
+    {
+      "hebrew": "דור",
+      "english": "Dor"
+    },
+    {
+      "hebrew": "דורות",
+      "english": "Dorot"
+    },
+    {
+      "hebrew": "דחי",
+      "english": "Dahi"
+    },
+    {
+      "hebrew": "דימונה",
+      "english": "Dimona"
+    },
+    {
+      "hebrew": "דיר אל-אסד",
+      "english": "Deir al-Asad"
+    },
+    {
+      "hebrew": "דיר חנא",
+      "english": "Deir Hanna"
+    },
+    {
+      "hebrew": "דישון",
+      "english": "Dishon"
+    },
+    {
+      "hebrew": "דליה",
+      "english": "Daliyya"
+    },
+    {
+      "hebrew": "דלית אל כרמל",
+      "english": "Daliyat al-Karmel"
+    },
+    {
+      "hebrew": "דלתון",
+      "english": "Dalton"
+    },
+    {
+      "hebrew": "דמיידה",
+      "english": "Dmeide"
+    },
+    {
+      "hebrew": "דניאל",
+      "english": "Daniel"
+    },
+    {
+      "hebrew": "דפנה",
+      "english": "Dafna"
+    },
+    {
+      "hebrew": "דקל",
+      "english": "Dekel"
+    },
+    {
+      "hebrew": "האון",
+      "english": "Ha'on"
+    },
+    {
+      "hebrew": "הבונים",
+      "english": "HaBonim"
+    },
+    {
+      "hebrew": "הגושרים",
+      "english": "HaGoshrim"
+    },
+    {
+      "hebrew": "הדר עם",
+      "english": "Hadar Am"
+    },
+    {
+      "hebrew": "הוד השרון",
+      "english": "Hod HaSharon"
+    },
+    {
+      "hebrew": "הודיה",
+      "english": "Hodaya"
+    },
+    {
+      "hebrew": "הודיות",
+      "english": "Hodayot"
+    },
+    {
+      "hebrew": "הושעיה",
+      "english": "Hosha'aya"
+    },
+    {
+      "hebrew": "הזורעים",
+      "english": "HaZore'im"
+    },
+    {
+      "hebrew": "החותרים",
+      "english": "HaHotrim"
+    },
+    {
+      "hebrew": "היוגב",
+      "english": "HaYogev"
+    },
+    {
+      "hebrew": "היישוב היהודי חברון",
+      "english": "Jewish Settlement of Hebron"
+    },
+    {
+      "hebrew": "הילה",
+      "english": "Hila"
+    },
+    {
+      "hebrew": "המעפיל",
+      "english": "HaMa'apil"
+    },
+    {
+      "hebrew": "המרכז האקדמי רופין",
+      "english": "Ruppin Academic Center"
+    },
+    {
+      "hebrew": "הסוללים",
+      "english": "HaSolelim"
+    },
+    {
+      "hebrew": "העוגן",
+      "english": "HaOgen"
+    },
+    {
+      "hebrew": "הר אדר",
+      "english": "Har Adar"
+    },
+    {
+      "hebrew": "הר ברכה",
+      "english": "Har Bracha"
+    },
+    {
+      "hebrew": "הר גילה",
+      "english": "Har Gilo"
+    },
+    {
+      "hebrew": "הר הנגב",
+      "english": "Har HaNegev"
+    },
+    {
+      "hebrew": "הר חלוץ",
+      "english": "Har Halutz"
+    },
+    {
+      "hebrew": "הר עמשא",
+      "english": "Har Amasa"
+    },
+    {
+      "hebrew": "הראל",
+      "english": "Harel"
+    },
+    {
+      "hebrew": "הרדוף",
+      "english": "Harduf"
+    },
+    {
+      "hebrew": "הרצליה - כל האזורים",
+      "english": "Herzliya - All Areas"
+    },
+    {
+      "hebrew": "הרצליה - מערב",
+      "english": "Herzliya - West"
+    },
+    {
+      "hebrew": "הרצליה - מרכז וגליל ים",
+      "english": "Herzliya - Center and Galil Yam"
+    },
+    {
+      "hebrew": "הררית יחד",
+      "english": "Hararit Yahad"
+    },
+    {
+      "hebrew": "ואדי אל חמאם",
+      "english": "Wadi al-Hamam"
+    },
+    {
+      "hebrew": "ואדי אל נעם דרום",
+      "english": "Wadi al-Na'am South"
+    },
+    {
+      "hebrew": "ורד יריחו",
+      "english": "Vered Yeriho"
+    },
+    {
+      "hebrew": "ורדון",
+      "english": "Vardon"
+    },
+    {
+      "hebrew": "זבדיאל",
+      "english": "Zavdi'el"
+    },
+    {
+      "hebrew": "זוהר",
+      "english": "Zohar"
+    },
+    {
+      "hebrew": "זיקים",
+      "english": "Zikim"
+    },
+    {
+      "hebrew": "זיתן",
+      "english": "Zeitan"
+    },
+    {
+      "hebrew": "זכרון יעקב",
+      "english": "Zikhron Ya'akov"
+    },
+    {
+      "hebrew": "זכריה",
+      "english": "Zekharia"
+    },
+    {
+      "hebrew": "זמר",
+      "english": "Zemer"
+    },
+    {
+      "hebrew": "זמרת, שובה",
+      "english": "Zimrat, Shuva"
+    },
+    {
+      "hebrew": "זנוח",
+      "english": "Zanoah"
+    },
+    {
+      "hebrew": "זרועה",
+      "english": "Zeru'a"
+    },
+    {
+      "hebrew": "זרזיר",
+      "english": "Zarzir"
+    },
+    {
+      "hebrew": "זרחיה",
+      "english": "Zerahia"
+    },
+    {
+      "hebrew": "זרעית",
+      "english": "Zarit"
+    },
+    {
+      "hebrew": "ח'וואלד",
+      "english": "Khawaled"
+    },
+    {
+      "hebrew": "חבצלת השרון וצוקי ים",
+      "english": "Havatzelet HaSharon and Tzukei Yam"
+    },
+    {
+      "hebrew": "חג'אג'רה",
+      "english": "Hajajre"
+    },
+    {
+      "hebrew": "חגור",
+      "english": "Hagor"
+    },
+    {
+      "hebrew": "חגלה",
+      "english": "Hogla"
+    },
+    {
+      "hebrew": "חד נס",
+      "english": "Had Nes"
+    },
+    {
+      "hebrew": "חדיד",
+      "english": "Hadid"
+    },
+    {
+      "hebrew": "חדרה - כל האזורים",
+      "english": "Hadera - All Areas"
+    },
+    {
+      "hebrew": "חדרה - מזרח",
+      "english": "Hadera - East"
+    },
+    {
+      "hebrew": "חדרה - מערב",
+      "english": "Hadera - West"
+    },
+    {
+      "hebrew": "חדרה - מרכז",
+      "english": "Hadera - Center"
+    },
+    {
+      "hebrew": "חדרה - נווה חיים",
+      "english": "Hadera - Neve Haim"
+    },
+    {
+      "hebrew": "חוואלד",
+      "english": "Khawaled"
+    },
+    {
+      "hebrew": "חוות אירוח גורן",
+      "english": "Goren Hospitality Farm"
+    },
+    {
+      "hebrew": "חוות גלעד",
+      "english": "Havat Gilad"
+    },
+    {
+      "hebrew": "חוות יאיר",
+      "english": "Havat Yair"
+    },
+    {
+      "hebrew": "חוות יזרעם",
+      "english": "Havat Yizre'am"
+    },
+    {
+      "hebrew": "חוות עדן",
+      "english": "Havat Eden"
+    },
+    {
+      "hebrew": "חוות ערנדל",
+      "english": "Havat Arandel"
+    },
+    {
+      "hebrew": "חוות שיקמים",
+      "english": "Havat Shikmim"
+    },
+    {
+      "hebrew": "חולדה",
+      "english": "Hulda"
+    },
+    {
+      "hebrew": "חולון",
+      "english": "Holon"
+    },
+    {
+      "hebrew": "חולית",
+      "english": "Holit"
+    },
+    {
+      "hebrew": "חולתה",
+      "english": "Hulata"
+    },
+    {
+      "hebrew": "חוסן",
+      "english": "Hosen"
+    },
+    {
+      "hebrew": "חוסנייה",
+      "english": "Hussniyya"
+    },
+    {
+      "hebrew": "חוף אמנון",
+      "english": "Hof Amnon"
+    },
+    {
+      "hebrew": "חוף בצת",
+      "english": "Hof Betzet"
+    },
+    {
+      "hebrew": "חוף גולן, צאלון",
+      "english": "Hof Golan, Tzalon"
+    },
+    {
+      "hebrew": "חוף גופרה",
+      "english": "Hof Gofra"
+    },
+    {
+      "hebrew": "חוף זיקים",
+      "english": "Hof Zikim"
+    },
+    {
+      "hebrew": "חוף כורסי, לבנון, חלוקים",
+      "english": "Hof Kursi, Levanon, Halukim"
+    },
+    {
+      "hebrew": "חוף כינר, דוגה, דוגית",
+      "english": "Hof Kinar, Duga, Dugit"
+    },
+    {
+      "hebrew": "חוף ניצנים",
+      "english": "Hof Nitzanim"
+    },
+    {
+      "hebrew": "חוף סוסיתא",
+      "english": "Hof Sussita"
+    },
+    {
+      "hebrew": "חוף קליה",
+      "english": "Hof Kalya"
+    },
+    {
+      "hebrew": "חופית",
+      "english": "Hofit"
+    },
+    {
+      "hebrew": "חוקוק",
+      "english": "Hukok"
+    },
+    {
+      "hebrew": "חורה",
+      "english": "Hura"
+    },
+    {
+      "hebrew": "חורפיש",
+      "english": "Hurfeish"
+    },
+    {
+      "hebrew": "חורשים",
+      "english": "Horashim"
+    },
+    {
+      "hebrew": "חזון",
+      "english": "Hazon"
+    },
+    {
+      "hebrew": "חי-בר יטבתה",
+      "english": "Hai-Bar Yotvata"
+    },
+    {
+      "hebrew": "חיבת ציון",
+      "english": "Hibat Tzion"
+    },
+    {
+      "hebrew": "חיננית",
+      "english": "Hinnanit"
+    },
+    {
+      "hebrew": "חיפה - כל האזורים",
+      "english": "Haifa - All Areas"
+    },
+    {
+      "hebrew": "חיפה - כרמל, הדר ועיר תחתית",
+      "english": "Haifa - Carmel, Hadar and Downtown"
+    },
+    {
+      "hebrew": "חיפה - מערב",
+      "english": "Haifa - West"
+    },
+    {
+      "hebrew": "חיפה - מפרץ",
+      "english": "Haifa - Bay"
+    },
+    {
+      "hebrew": "חיפה - נווה שאנן ורמות כרמל",
+      "english": "Haifa - Neve Sha'anan and Carmel Heights"
+    },
+    {
+      "hebrew": "חיפה - קריית חיים ושמואל",
+      "english": "Haifa - Kiryat Haim and Shmuel"
+    },
+    {
+      "hebrew": "חירן",
+      "english": "Hiran"
+    },
+    {
+      "hebrew": "חלמיש",
+      "english": "Hallamish"
+    },
+    {
+      "hebrew": "חלץ",
+      "english": "Helez"
+    },
+    {
+      "hebrew": "חמד",
+      "english": "Hemed"
+    },
+    {
+      "hebrew": "חמדיה",
+      "english": "Hamadya"
+    },
+    {
+      "hebrew": "חמדת",
+      "english": "Hemdat"
+    },
+    {
+      "hebrew": "חמרה",
+      "english": "Hamra"
+    },
+    {
+      "hebrew": "חמת גדר",
+      "english": "Hamat Gader"
+    },
+    {
+      "hebrew": "חניאל",
+      "english": "Haniel"
+    },
+    {
+      "hebrew": "חניון הנתיב מהיר",
+      "english": "Fast Lane Parking"
+    },
+    {
+      "hebrew": "חניתה",
+      "english": "Hanita"
+    },
+    {
+      "hebrew": "חנתון",
+      "english": "Hannaton"
+    },
+    {
+      "hebrew": "חספין",
+      "english": "Haspin"
+    },
+    {
+      "hebrew": "חפץ חיים",
+      "english": "Hafetz Haim"
+    },
+    {
+      "hebrew": "חצב",
+      "english": "Hatzav"
+    },
+    {
+      "hebrew": "חצבה",
+      "english": "Hatzeva"
+    },
+    {
+      "hebrew": "חצור",
+      "english": "Hatzor"
+    },
+    {
+      "hebrew": "חצור הגלילית",
+      "english": "Hatzor HaGlilit"
+    },
+    {
+      "hebrew": "חצרים",
+      "english": "Hatzerim"
+    },
+    {
+      "hebrew": "חרב לאת",
+      "english": "Herev Le'et"
+    },
+    {
+      "hebrew": "חרוצים",
+      "english": "Harutzim"
+    },
+    {
+      "hebrew": "חרות",
+      "english": "Herut"
+    },
+    {
+      "hebrew": "חריש",
+      "english": "Harish"
+    },
+    {
+      "hebrew": "חרמש",
+      "english": "Hermesh"
+    },
+    {
+      "hebrew": "חרשה",
+      "english": "Harsha"
+    },
+    {
+      "hebrew": "חרשים",
+      "english": "Harashim"
+    },
+    {
+      "hebrew": "חשמונאים",
+      "english": "Hashmonaim"
+    },
+    {
+      "hebrew": "טבחה",
+      "english": "Tabgha"
+    },
+    {
+      "hebrew": "טבריה",
+      "english": "Tiberias"
+    },
+    {
+      "hebrew": "טובא זנגריה",
+      "english": "Tuba-Zangariyye"
+    },
+    {
+      "hebrew": "טורעאן",
+      "english": "Tur'an"
+    },
+    {
+      "hebrew": "טייבה",
+      "english": "Tayibe"
+    },
+    {
+      "hebrew": "טייבה בגלבוע",
+      "english": "Tayibe in Gilboa"
+    },
+    {
+      "hebrew": "טירה",
+      "english": "Tira"
+    },
+    {
+      "hebrew": "טירת יהודה",
+      "english": "Tirat Yehuda"
+    },
+    {
+      "hebrew": "טירת כרמל",
+      "english": "Tirat Carmel"
+    },
+    {
+      "hebrew": "טירת צבי",
+      "english": "Tirat Tzvi"
+    },
+    {
+      "hebrew": "טל - אל",
+      "english": "Tal-El"
+    },
+    {
+      "hebrew": "טל מנשה",
+      "english": "Tal Menashe"
+    },
+    {
+      "hebrew": "טל שחר",
+      "english": "Tal Shahar"
+    },
+    {
+      "hebrew": "טללים",
+      "english": "Tlalim"
+    },
+    {
+      "hebrew": "טלמון",
+      "english": "Talmon"
+    },
+    {
+      "hebrew": "טמרה",
+      "english": "Tamra"
+    },
+    {
+      "hebrew": "טמרה בגלבוע",
+      "english": "Tamra in Gilboa"
+    },
+    {
+      "hebrew": "טנא עומרים",
+      "english": "Tene Omarim"
+    },
+    {
+      "hebrew": "טפחות",
+      "english": "Tefahot"
+    },
+    {
+      "hebrew": "יבול",
+      "english": "Yevul"
+    },
+    {
+      "hebrew": "יבנאל",
+      "english": "Yavne'el"
+    },
+    {
+      "hebrew": "יבנה",
+      "english": "Yavne"
+    },
+    {
+      "hebrew": "יגור",
+      "english": "Yagur"
+    },
+    {
+      "hebrew": "יגל",
+      "english": "Yagel"
+    },
+    {
+      "hebrew": "יד בנימין",
+      "english": "Yad Binyamin"
+    },
+    {
+      "hebrew": "יד השמונה",
+      "english": "Yad HaShmona"
+    },
+    {
+      "hebrew": "יד חנה",
+      "english": "Yad Hanna"
+    },
+    {
+      "hebrew": "יד מרדכי",
+      "english": "Yad Mordechai"
+    },
+    {
+      "hebrew": "יד נתן",
+      "english": "Yad Natan"
+    },
+    {
+      "hebrew": "יד רמב\"ם",
+      "english": "Yad Rambam"
+    },
+    {
+      "hebrew": "יהוד מונוסון",
+      "english": "Yehud-Monosson"
+    },
+    {
+      "hebrew": "יהל",
+      "english": "Yahel"
+    },
+    {
+      "hebrew": "יובלים",
+      "english": "Yuvalim"
+    },
+    {
+      "hebrew": "יודפת",
+      "english": "Yodfat"
+    },
+    {
+      "hebrew": "יונתן",
+      "english": "Yonatan"
+    },
+    {
+      "hebrew": "יושיביה",
+      "english": "Yoshivya"
+    },
+    {
+      "hebrew": "יזרעאל",
+      "english": "Yizre'el"
+    },
+    {
+      "hebrew": "יחיעם",
+      "english": "Yehiam"
+    },
+    {
+      "hebrew": "יטבתה",
+      "english": "Yotvata"
+    },
+    {
+      "hebrew": "ייט\"ב",
+      "english": "Yitav"
+    },
+    {
+      "hebrew": "יכיני",
+      "english": "Yakhini"
+    },
+    {
+      "hebrew": "ינוב",
+      "english": "Yanuv"
+    },
+    {
+      "hebrew": "ינוח ג'ת",
+      "english": "Yanuh-Jat"
+    },
+    {
+      "hebrew": "ינון",
+      "english": "Yinon"
+    },
+    {
+      "hebrew": "יסוד המעלה",
+      "english": "Yesud HaMa'ala"
+    },
+    {
+      "hebrew": "יסודות",
+      "english": "Yesodot"
+    },
+    {
+      "hebrew": "יסעור",
+      "english": "Yasur"
+    },
+    {
+      "hebrew": "יעד",
+      "english": "Ya'ad"
+    },
+    {
+      "hebrew": "יעף",
+      "english": "Ye'af"
+    },
+    {
+      "hebrew": "יערה",
+      "english": "Ya'ara"
+    },
+    {
+      "hebrew": "יערות הכרמל",
+      "english": "Ye'arot HaCarmel"
+    },
+    {
+      "hebrew": "יפיע",
+      "english": "Yafi'a"
+    },
+    {
+      "hebrew": "יפית",
+      "english": "Yafit"
+    },
+    {
+      "hebrew": "יפעת",
+      "english": "Yif'at"
+    },
+    {
+      "hebrew": "יפתח",
+      "english": "Yiftah"
+    },
+    {
+      "hebrew": "יצהר",
+      "english": "Yitzhar"
+    },
+    {
+      "hebrew": "יציץ",
+      "english": "Yatzitz"
+    },
+    {
+      "hebrew": "יקום",
+      "english": "Yakum"
+    },
+    {
+      "hebrew": "יקיר",
+      "english": "Yakir"
+    },
+    {
+      "hebrew": "יקנעם המושבה והזורע",
+      "english": "Yokne'am Moshava and HaZore'a"
+    },
+    {
+      "hebrew": "יקנעם עילית",
+      "english": "Yokne'am Illit"
+    },
+    {
+      "hebrew": "יראון",
+      "english": "Yir'on"
+    },
+    {
+      "hebrew": "ירדנה",
+      "english": "Yardena"
+    },
+    {
+      "hebrew": "ירוחם",
+      "english": "Yeruham"
+    },
+    {
+      "hebrew": "ירושלים - אזור תעשייה עטרות",
+      "english": "Jerusalem - Atarot Industrial Zone"
+    },
+    {
+      "hebrew": "ירושלים - דרום",
+      "english": "Jerusalem - South"
+    },
+    {
+      "hebrew": "ירושלים - כל האזורים",
+      "english": "Jerusalem - All Areas"
+    },
+    {
+      "hebrew": "ירושלים - כפר עקב",
+      "english": "Jerusalem - Kafr Aqab"
+    },
+    {
+      "hebrew": "ירושלים - מזרח",
+      "english": "Jerusalem - East"
+    },
+    {
+      "hebrew": "ירושלים - מערב",
+      "english": "Jerusalem - West"
+    },
+    {
+      "hebrew": "ירושלים - מרכז",
+      "english": "Jerusalem - Center"
+    },
+    {
+      "hebrew": "ירושלים - צפון",
+      "english": "Jerusalem - North"
+    },
+    {
+      "hebrew": "ירחיב",
+      "english": "Yarhiv"
+    },
+    {
+      "hebrew": "ירכא",
+      "english": "Yarka"
+    },
+    {
+      "hebrew": "ירקונה",
+      "english": "Yarkona"
+    },
+    {
+      "hebrew": "ישובי אומן",
+      "english": "Yishuvei Oman"
+    },
+    {
+      "hebrew": "ישובי יעל",
+      "english": "Yishuvei Yael"
+    },
+    {
+      "hebrew": "ישעי",
+      "english": "Yish'i"
+    },
+    {
+      "hebrew": "ישרש",
+      "english": "Yashresh"
+    },
+    {
+      "hebrew": "יתד",
+      "english": "Yated"
+    },
+    {
+      "hebrew": "כאבול",
+      "english": "Kabul"
+    },
+    {
+      "hebrew": "כאוכב אבו אלהיג'א",
+      "english": "Kaokab Abu al-Hija"
+    },
+    {
+      "hebrew": "כברי",
+      "english": "Kabri"
+    },
+    {
+      "hebrew": "כדורי",
+      "english": "Kaduri"
+    },
+    {
+      "hebrew": "כוכב השחר",
+      "english": "Kokhav HaShahar"
+    },
+    {
+      "hebrew": "כוכב יאיר - צור יגאל",
+      "english": "Kokhav Ya'ir - Tzur Yigal"
+    },
+    {
+      "hebrew": "כוכב יעקב",
+      "english": "Kokhav Ya'akov"
+    },
+    {
+      "hebrew": "כוכב מיכאל",
+      "english": "Kokhav Michael"
+    },
+    {
+      "hebrew": "כורזים ורד הגליל",
+      "english": "Korazim and Vered HaGalil"
+    },
+    {
+      "hebrew": "כושי רמון",
+      "english": "Kushi Ramon"
+    },
+    {
+      "hebrew": "כחל",
+      "english": "Kahal"
+    },
+    {
+      "hebrew": "כינרת מושבה",
+      "english": "Kinneret Moshava"
+    },
+    {
+      "hebrew": "כינרת קבוצה",
+      "english": "Kinneret Kvutza"
+    },
+    {
+      "hebrew": "כיסופים",
+      "english": "Kissufim"
+    },
+    {
+      "hebrew": "כישור",
+      "english": "Kishor"
+    },
+    {
+      "hebrew": "כל הארץ",
+      "english": "All of Israel"
+    },
+    {
+      "hebrew": "כלא דמון",
+      "english": "Damon Prison"
+    },
+    {
+      "hebrew": "כליל",
+      "english": "Klil"
+    },
+    {
+      "hebrew": "כלנית",
+      "english": "Kalanit"
+    },
+    {
+      "hebrew": "כמאנה",
+      "english": "Kamana"
+    },
+    {
+      "hebrew": "כמהין",
+      "english": "Kmehin"
+    },
+    {
+      "hebrew": "כמון",
+      "english": "Kamon"
+    },
+    {
+      "hebrew": "כנות",
+      "english": "Kanot"
+    },
+    {
+      "hebrew": "כנף",
+      "english": "Kanaf"
+    },
+    {
+      "hebrew": "כסייפה",
+      "english": "Kuseife"
+    },
+    {
+      "hebrew": "כסלון",
+      "english": "Kesalon"
+    },
+    {
+      "hebrew": "כסרא סמיע",
+      "english": "Kisra-Sumei"
+    },
+    {
+      "hebrew": "כעביה",
+      "english": "Ka'abiyye"
+    },
+    {
+      "hebrew": "כעביה טבאש",
+      "english": "Ka'abiyye-Tabbash"
+    },
+    {
+      "hebrew": "כפר אביב",
+      "english": "Kfar Aviv"
+    },
+    {
+      "hebrew": "כפר אדומים",
+      "english": "Kfar Adumim"
+    },
+    {
+      "hebrew": "כפר אוריה",
+      "english": "Kfar Uriya"
+    },
+    {
+      "hebrew": "כפר אחים",
+      "english": "Kfar Ahim"
+    },
+    {
+      "hebrew": "כפר אלדד",
+      "english": "Kfar Eldad"
+    },
+    {
+      "hebrew": "כפר ביאליק",
+      "english": "Kfar Bialik"
+    },
+    {
+      "hebrew": "כפר ביל\"ו",
+      "english": "Kfar Bilu"
+    },
+    {
+      "hebrew": "כפר בלום",
+      "english": "Kfar Blum"
+    },
+    {
+      "hebrew": "כפר בן נון",
+      "english": "Kfar Bin Nun"
+    },
+    {
+      "hebrew": "כפר ברא",
+      "english": "Kafr Bara"
+    },
+    {
+      "hebrew": "כפר ברוך",
+      "english": "Kfar Baruch"
+    },
+    {
+      "hebrew": "כפר גדעון",
+      "english": "Kfar Gid'on"
+    },
+    {
+      "hebrew": "כפר גלים",
+      "english": "Kfar Galim"
+    },
+    {
+      "hebrew": "כפר גליקסון",
+      "english": "Kfar Glikson"
+    },
+    {
+      "hebrew": "כפר גלעדי",
+      "english": "Kfar Giladi"
+    },
+    {
+      "hebrew": "כפר גמילה מלכישוע",
+      "english": "Malkishua Rehabilitation Center"
+    },
+    {
+      "hebrew": "כפר דניאל",
+      "english": "Kfar Daniel"
+    },
+    {
+      "hebrew": "כפר האורנים",
+      "english": "Kfar HaOranim"
+    },
+    {
+      "hebrew": "כפר החורש",
+      "english": "Kfar HaHoresh"
+    },
+    {
+      "hebrew": "כפר המכבי",
+      "english": "Kfar HaMaccabi"
+    },
+    {
+      "hebrew": "כפר הנגיד",
+      "english": "Kfar HaNagid"
+    },
+    {
+      "hebrew": "כפר הנוער ימין אורד",
+      "english": "Yemin Orde Youth Village"
+    },
+    {
+      "hebrew": "כפר הנוער קריית יערים",
+      "english": "Kiryat Ye'arim Youth Village"
+    },
+    {
+      "hebrew": "כפר הנוקדים",
+      "english": "Kfar HaNokdim"
+    },
+    {
+      "hebrew": "כפר הנשיא",
+      "english": "Kfar HaNasi"
+    },
+    {
+      "hebrew": "כפר הס",
+      "english": "Kfar Hess"
+    },
+    {
+      "hebrew": "כפר הרא\"ה",
+      "english": "Kfar HaRo'eh"
+    },
+    {
+      "hebrew": "כפר הרי\"ף וצומת ראם",
+      "english": "Kfar HaRif and Re'em Junction"
+    },
+    {
+      "hebrew": "כפר ויתקין",
+      "english": "Kfar Vitkin"
+    },
+    {
+      "hebrew": "כפר ורבורג",
+      "english": "Kfar Warburg"
+    },
+    {
+      "hebrew": "כפר ורדים",
+      "english": "Kfar Vradim"
+    },
+    {
+      "hebrew": "כפר זוהרים",
+      "english": "Kfar Zoharim"
+    },
+    {
+      "hebrew": "כפר זיתים",
+      "english": "Kfar Zeitim"
+    },
+    {
+      "hebrew": "כפר חב\"ד",
+      "english": "Kfar Chabad"
+    },
+    {
+      "hebrew": "כפר חיטים",
+      "english": "Kfar Hitim"
+    },
+    {
+      "hebrew": "כפר חיים",
+      "english": "Kfar Haim"
+    },
+    {
+      "hebrew": "כפר חנניה",
+      "english": "Kfar Hananya"
+    },
+    {
+      "hebrew": "כפר חסידים",
+      "english": "Kfar Hasidim"
+    },
+    {
+      "hebrew": "כפר חרוב",
+      "english": "Kfar Haruv"
+    },
+    {
+      "hebrew": "כפר טבאש",
+      "english": "Kfar Tabash"
+    },
+    {
+      "hebrew": "כפר טרומן",
+      "english": "Kfar Truman"
+    },
+    {
+      "hebrew": "כפר יאסיף",
+      "english": "Kafr Yasif"
+    },
+    {
+      "hebrew": "כפר ידידיה",
+      "english": "Kfar Yedidya"
+    },
+    {
+      "hebrew": "כפר יהושע",
+      "english": "Kfar Yehoshua"
+    },
+    {
+      "hebrew": "כפר יובל",
+      "english": "Kfar Yuval"
+    },
+    {
+      "hebrew": "כפר יונה",
+      "english": "Kfar Yona"
+    },
+    {
+      "hebrew": "כפר יחזקאל",
+      "english": "Kfar Yehezkel"
+    },
+    {
+      "hebrew": "כפר יעבץ",
+      "english": "Kfar Yabetz"
+    },
+    {
+      "hebrew": "כפר כמא",
+      "english": "Kafr Kama"
+    },
+    {
+      "hebrew": "כפר כנא",
+      "english": "Kafr Kanna"
+    },
+    {
+      "hebrew": "כפר מונש",
+      "english": "Kfar Monash"
+    },
+    {
+      "hebrew": "כפר מימון ותושיה",
+      "english": "Kfar Maimon and Tushia"
+    },
+    {
+      "hebrew": "כפר מל\"ל",
+      "english": "Kfar Malal"
+    },
+    {
+      "hebrew": "כפר מנדא",
+      "english": "Kafr Manda"
+    },
+    {
+      "hebrew": "כפר מנחם",
+      "english": "Kfar Menahem"
+    },
+    {
+      "hebrew": "כפר מסריק",
+      "english": "Kfar Masaryk"
+    },
+    {
+      "hebrew": "כפר מצר",
+      "english": "Kafr Misr"
+    },
+    {
+      "hebrew": "כפר מרדכי",
+      "english": "Kfar Mordechai"
+    },
+    {
+      "hebrew": "כפר נהר הירדן",
+      "english": "Jordan River Village"
+    },
+    {
+      "hebrew": "כפר נוער בן שמן",
+      "english": "Ben Shemen Youth Village"
+    },
+    {
+      "hebrew": "כפר נחום",
+      "english": "Capernaum"
+    },
+    {
+      "hebrew": "כפר נטר",
+      "english": "Kfar Netter"
+    },
+    {
+      "hebrew": "כפר סאלד",
+      "english": "Kfar Szold"
+    },
+    {
+      "hebrew": "כפר סבא",
+      "english": "Kfar Saba"
+    },
+    {
+      "hebrew": "כפר סילבר",
+      "english": "Kfar Silver"
+    },
+    {
+      "hebrew": "כפר סירקין",
+      "english": "Kfar Sirkin"
+    },
+    {
+      "hebrew": "כפר עבודה",
+      "english": "Kfar Avoda"
+    },
+    {
+      "hebrew": "כפר עזה",
+      "english": "Kfar Aza"
+    },
+    {
+      "hebrew": "כפר עציון",
+      "english": "Kfar Etzion"
+    },
+    {
+      "hebrew": "כפר פינס",
+      "english": "Kfar Pines"
+    },
+    {
+      "hebrew": "כפר קאסם",
+      "english": "Kafr Qasim"
+    },
+    {
+      "hebrew": "כפר קיש",
+      "english": "Kfar Kish"
+    },
+    {
+      "hebrew": "כפר קרע",
+      "english": "Kafr Qara"
+    },
+    {
+      "hebrew": "כפר רופין",
+      "english": "Kfar Ruppin"
+    },
+    {
+      "hebrew": "כפר רות",
+      "english": "Kfar Ruth"
+    },
+    {
+      "hebrew": "כפר שמאי",
+      "english": "Kfar Shamai"
+    },
+    {
+      "hebrew": "כפר שמואל",
+      "english": "Kfar Shmuel"
+    },
+    {
+      "hebrew": "כפר שמריהו",
+      "english": "Kfar Shmaryahu"
+    },
+    {
+      "hebrew": "כפר תבור",
+      "english": "Kfar Tavor"
+    },
+    {
+      "hebrew": "כפר תפוח",
+      "english": "Kfar Tapuach"
+    },
+    {
+      "hebrew": "כפר תקווה",
+      "english": "Kfar Tikva"
+    },
+    {
+      "hebrew": "כרכום",
+      "english": "Karkom"
+    },
+    {
+      "hebrew": "כרם ביבנה",
+      "english": "Kerem B'Yavneh"
+    },
+    {
+      "hebrew": "כרם בן זמרה",
+      "english": "Kerem Ben Zimra"
+    },
+    {
+      "hebrew": "כרם מהר\"ל",
+      "english": "Kerem Maharal"
+    },
+    {
+      "hebrew": "כרם רעים",
+      "english": "Kerem Re'im"
+    },
+    {
+      "hebrew": "כרם שלום",
+      "english": "Kerem Shalom"
+    },
+    {
+      "hebrew": "כרמי יוסף",
+      "english": "Karmei Yosef"
+    },
+    {
+      "hebrew": "כרמי צור",
+      "english": "Karmei Tzur"
+    },
+    {
+      "hebrew": "כרמי קטיף",
+      "english": "Karmei Katif"
+    },
+    {
+      "hebrew": "כרמיאל",
+      "english": "Karmiel"
+    },
+    {
+      "hebrew": "כרמיה",
+      "english": "Karmia"
+    },
+    {
+      "hebrew": "כרמים",
+      "english": "Kramim"
+    },
+    {
+      "hebrew": "כרמית",
+      "english": "Karmit"
+    },
+    {
+      "hebrew": "כרמל",
+      "english": "Carmel"
+    },
+    {
+      "hebrew": "לב החולה",
+      "english": "Lev HaHula"
+    },
+    {
+      "hebrew": "לבון",
+      "english": "Lavon"
+    },
+    {
+      "hebrew": "לביא",
+      "english": "Lavi"
+    },
+    {
+      "hebrew": "לבנים",
+      "english": "Livnim"
+    },
+    {
+      "hebrew": "להב",
+      "english": "Lahav"
+    },
+    {
+      "hebrew": "להבות הבשן",
+      "english": "Lahavot HaBashan"
+    },
+    {
+      "hebrew": "להבות חביבה",
+      "english": "Lahavot Haviva"
+    },
+    {
+      "hebrew": "להבים",
+      "english": "Lehavim"
+    },
+    {
+      "hebrew": "לוד",
+      "english": "Lod"
+    },
+    {
+      "hebrew": "לוזית",
+      "english": "Luzit"
+    },
+    {
+      "hebrew": "לוחמי הגטאות",
+      "english": "Lohamei HaGeta'ot"
+    },
+    {
+      "hebrew": "לוטם וחמדון",
+      "english": "Lotem and Hamdon"
+    },
+    {
+      "hebrew": "לוטן",
+      "english": "Lotan"
+    },
+    {
+      "hebrew": "לטרון",
+      "english": "Latrun"
+    },
+    {
+      "hebrew": "לימן",
+      "english": "Liman"
+    },
+    {
+      "hebrew": "לכיש",
+      "english": "Lachish"
+    },
+    {
+      "hebrew": "לפיד",
+      "english": "Lapid"
+    },
+    {
+      "hebrew": "לפידות",
+      "english": "Lapidot"
+    },
+    {
+      "hebrew": "לקיה",
+      "english": "Lakiya"
+    },
+    {
+      "hebrew": "מאור",
+      "english": "Ma'or"
+    },
+    {
+      "hebrew": "מאיר שפיה",
+      "english": "Meir Shfeya"
+    },
+    {
+      "hebrew": "מבוא ביתר",
+      "english": "Mevo Beitar"
+    },
+    {
+      "hebrew": "מבוא דותן",
+      "english": "Mevo Dotan"
+    },
+    {
+      "hebrew": "מבוא חורון",
+      "english": "Mevo Horon"
+    },
+    {
+      "hebrew": "מבוא חמה",
+      "english": "Mevo Hama"
+    },
+    {
+      "hebrew": "מבוא מודיעים",
+      "english": "Mevo Modi'im"
+    },
+    {
+      "hebrew": "מבואות יריחו",
+      "english": "Mevo'ot Yeriho"
+    },
+    {
+      "hebrew": "מבועים",
+      "english": "Mabuhim"
+    },
+    {
+      "hebrew": "מבטחים, עמיעוז, ישע",
+      "english": "Mivtahim, Ami'oz, Yesha"
+    },
+    {
+      "hebrew": "מבקיעים",
+      "english": "Mavki'im"
+    },
+    {
+      "hebrew": "מבשרת ציון",
+      "english": "Mevaseret Zion"
+    },
+    {
+      "hebrew": "מג'דל כרום",
+      "english": "Majd al-Krum"
+    },
+    {
+      "hebrew": "מג'דל שמס",
+      "english": "Majdal Shams"
+    },
+    {
+      "hebrew": "מגדים",
+      "english": "Megadim"
+    },
+    {
+      "hebrew": "מגדל",
+      "english": "Migdal"
+    },
+    {
+      "hebrew": "מגדל העמק",
+      "english": "Migdal HaEmek"
+    },
+    {
+      "hebrew": "מגדל עוז",
+      "english": "Migdal Oz"
+    },
+    {
+      "hebrew": "מגדל תפן",
+      "english": "Migdal Tefen"
+    },
+    {
+      "hebrew": "מגדלים",
+      "english": "Migdalim"
+    },
+    {
+      "hebrew": "מגל",
+      "english": "Magal"
+    },
+    {
+      "hebrew": "מגן",
+      "english": "Magen"
+    },
+    {
+      "hebrew": "מגן שאול",
+      "english": "Magen Shaul"
+    },
+    {
+      "hebrew": "מגרון",
+      "english": "Migron"
+    },
+    {
+      "hebrew": "מגשימים",
+      "english": "Magshimim"
+    },
+    {
+      "hebrew": "מדרך עוז",
+      "english": "Midrakh Oz"
+    },
+    {
+      "hebrew": "מדרשת בן גוריון",
+      "english": "Midreshet Ben-Gurion"
+    },
+    {
+      "hebrew": "מודיעין - ישפרו סנטר",
+      "english": "Modi'in - Ishpro Center"
+    },
+    {
+      "hebrew": "מודיעין - ליגד סנטר",
+      "english": "Modi'in - Ligad Center"
+    },
+    {
+      "hebrew": "מודיעין מכבים רעות",
+      "english": "Modi'in-Maccabim-Re'ut"
+    },
+    {
+      "hebrew": "מודיעין עילית",
+      "english": "Modi'in Illit"
+    },
+    {
+      "hebrew": "מולדת",
+      "english": "Moledet"
+    },
+    {
+      "hebrew": "מועאוויה",
+      "english": "Mu'awiya"
+    },
+    {
+      "hebrew": "מוצא עילית",
+      "english": "Motza Illit"
+    },
+    {
+      "hebrew": "מוקיבלה",
+      "english": "Muqeible"
+    },
+    {
+      "hebrew": "מורן",
+      "english": "Moran"
+    },
+    {
+      "hebrew": "מורשת",
+      "english": "Moreshet"
+    },
+    {
+      "hebrew": "מזור",
+      "english": "Mazor"
+    },
+    {
+      "hebrew": "מזכרת בתיה",
+      "english": "Mazkeret Batya"
+    },
+    {
+      "hebrew": "מזרע",
+      "english": "Mizra"
+    },
+    {
+      "hebrew": "מזרעה",
+      "english": "Mazra'a"
+    },
+    {
+      "hebrew": "מחוז אילת",
+      "english": "Eilat District"
+    },
+    {
+      "hebrew": "מחוז בקעה",
+      "english": "Bik'a District"
+    },
+    {
+      "hebrew": "מחוז בקעת בית שאן",
+      "english": "Beit She'an Valley District"
+    },
+    {
+      "hebrew": "מחוז גולן דרום",
+      "english": "Southern Golan District"
+    },
+    {
+      "hebrew": "מחוז גולן צפון",
+      "english": "Northern Golan District"
+    },
+    {
+      "hebrew": "מחוז גליל עליון",
+      "english": "Upper Galilee District"
+    },
+    {
+      "hebrew": "מחוז גליל תחתון",
+      "english": "Lower Galilee District"
+    },
+    {
+      "hebrew": "מחוז דן",
+      "english": "Dan District"
+    },
+    {
+      "hebrew": "מחוז דרום הנגב",
+      "english": "Southern Negev District"
+    },
+    {
+      "hebrew": "מחוז הכרמל",
+      "english": "Carmel District"
+    },
+    {
+      "hebrew": "מחוז המפרץ",
+      "english": "Bay District"
+    },
+    {
+      "hebrew": "מחוז העמקים",
+      "english": "Valleys District"
+    },
+    {
+      "hebrew": "מחוז השפלה",
+      "english": "Shfela District"
+    },
+    {
+      "hebrew": "מחוז ואדי ערה",
+      "english": "Wadi Ara District"
+    },
+    {
+      "hebrew": "מחוז יהודה",
+      "english": "Yehuda District"
+    },
+    {
+      "hebrew": "מחוז ים המלח",
+      "english": "Dead Sea District"
+    },
+    {
+      "hebrew": "מחוז ירושלים",
+      "english": "Jerusalem District"
+    },
+    {
+      "hebrew": "מחוז ירקון",
+      "english": "Yarkon District"
+    },
+    {
+      "hebrew": "מחוז לכיש",
+      "english": "Lachish District"
+    },
+    {
+      "hebrew": "מחוז מנשה",
+      "english": "Menashe District"
+    },
+    {
+      "hebrew": "מחוז מערב הנגב",
+      "english": "Western Negev District"
+    },
+    {
+      "hebrew": "מחוז מערב לכיש",
+      "english": "Western Lachish District"
+    },
+    {
+      "hebrew": "מחוז מרכז הגליל",
+      "english": "Central Galilee District"
+    },
+    {
+      "hebrew": "מחוז מרכז הנגב",
+      "english": "Central Negev District"
+    },
+    {
+      "hebrew": "מחוז עוטף עזה",
+      "english": "Gaza Envelope District"
+    },
+    {
+      "hebrew": "מחוז ערבה",
+      "english": "Arava District"
+    },
+    {
+      "hebrew": "מחוז קו העימות",
+      "english": "Confrontation Line District"
+    },
+    {
+      "hebrew": "מחוז שומרון",
+      "english": "Samaria District"
+    },
+    {
+      "hebrew": "מחוז שפלת יהודה",
+      "english": "Judean Foothills District"
+    },
+    {
+      "hebrew": "מחוז שרון",
+      "english": "Sharon District"
+    },
+    {
+      "hebrew": "מחולה",
+      "english": "Mehola"
+    },
+    {
+      "hebrew": "מחניים",
+      "english": "Mahanaim"
+    },
+    {
+      "hebrew": "מחסיה",
+      "english": "Mahseya"
+    },
+    {
+      "hebrew": "מטווח ניר עם",
+      "english": "Nir Am Shooting Range"
+    },
+    {
+      "hebrew": "מטולה",
+      "english": "Metula"
+    },
+    {
+      "hebrew": "מטע",
+      "english": "Mata"
+    },
+    {
+      "hebrew": "מי עמי",
+      "english": "Mi Ami"
+    },
+    {
+      "hebrew": "מייסר",
+      "english": "Meiser"
+    },
+    {
+      "hebrew": "מיני ישראל - נחשון",
+      "english": "Mini Israel - Nahshon"
+    },
+    {
+      "hebrew": "מיצד",
+      "english": "Mitzad"
+    },
+    {
+      "hebrew": "מיצר",
+      "english": "Meitzar"
+    },
+    {
+      "hebrew": "מירב",
+      "english": "Merav"
+    },
+    {
+      "hebrew": "מירון",
+      "english": "Meron"
+    },
+    {
+      "hebrew": "מישר",
+      "english": "Meishar"
+    },
+    {
+      "hebrew": "מיתר",
+      "english": "Meitar"
+    },
+    {
+      "hebrew": "מכון וינגייט",
+      "english": "Wingate Institute"
+    },
+    {
+      "hebrew": "מכורה",
+      "english": "Mechora"
+    },
+    {
+      "hebrew": "מכמורת",
+      "english": "Mikhmoret"
+    },
+    {
+      "hebrew": "מכמנים",
+      "english": "Mikhmanim"
+    },
+    {
+      "hebrew": "מלון אחוזת ירדן",
+      "english": "Ahuzat Yarden Hotel"
+    },
+    {
+      "hebrew": "מלון סיקס סנסס שחרות",
+      "english": "Six Senses Shaharut Hotel"
+    },
+    {
+      "hebrew": "מלון פרא",
+      "english": "Fara Hotel"
+    },
+    {
+      "hebrew": "מלונות ים המלח מרכז",
+      "english": "Dead Sea Hotels Center"
+    },
+    {
+      "hebrew": "מלכיה",
+      "english": "Malkia"
+    },
+    {
+      "hebrew": "ממשית",
+      "english": "Mamshit"
+    },
+    {
+      "hebrew": "מנוחה",
+      "english": "Menuha"
+    },
+    {
+      "hebrew": "מנוף",
+      "english": "Manof"
+    },
+    {
+      "hebrew": "מנות",
+      "english": "Manot"
+    },
+    {
+      "hebrew": "מנחמיה",
+      "english": "Menahamia"
+    },
+    {
+      "hebrew": "מנחת מחניים",
+      "english": "Mahanaim Airfield"
+    },
+    {
+      "hebrew": "מנרה",
+      "english": "Menara"
+    },
+    {
+      "hebrew": "מנשית זבדה",
+      "english": "Manshiyat Zabda"
+    },
+    {
+      "hebrew": "מסד",
+      "english": "Massad"
+    },
+    {
+      "hebrew": "מסדה",
+      "english": "Massada"
+    },
+    {
+      "hebrew": "מסילות",
+      "english": "Mesilot"
+    },
+    {
+      "hebrew": "מסילת ציון",
+      "english": "Mesilat Zion"
+    },
+    {
+      "hebrew": "מסלול",
+      "english": "Maslul"
+    },
+    {
+      "hebrew": "מסעדה",
+      "english": "Mas'ade"
+    },
+    {
+      "hebrew": "מע'אר",
+      "english": "Maghar"
+    },
+    {
+      "hebrew": "מעברות",
+      "english": "Ma'abarot"
+    },
+    {
+      "hebrew": "מעגלים, גבעולים, מלילות",
+      "english": "Ma'agalim, Giv'olim, Melilot"
+    },
+    {
+      "hebrew": "מעגן",
+      "english": "Ma'agan"
+    },
+    {
+      "hebrew": "מעגן מיכאל",
+      "english": "Ma'agan Michael"
+    },
+    {
+      "hebrew": "מעוז חיים",
+      "english": "Maoz Haim"
+    },
+    {
+      "hebrew": "מעון",
+      "english": "Ma'on"
+    },
+    {
+      "hebrew": "מעון צופיה",
+      "english": "Ma'on Tzofiya"
+    },
+    {
+      "hebrew": "מעונה",
+      "english": "Me'ona"
+    },
+    {
+      "hebrew": "מעיין ברוך",
+      "english": "Ma'ayan Baruch"
+    },
+    {
+      "hebrew": "מעיין צבי",
+      "english": "Ma'ayan Tzvi"
+    },
+    {
+      "hebrew": "מעיליא",
+      "english": "Mi'ilya"
+    },
+    {
+      "hebrew": "מעלה אדומים",
+      "english": "Ma'ale Adumim"
+    },
+    {
+      "hebrew": "מעלה אפרים",
+      "english": "Ma'ale Efraim"
+    },
+    {
+      "hebrew": "מעלה גלבוע",
+      "english": "Ma'ale Gilboa"
+    },
+    {
+      "hebrew": "מעלה גמלא",
+      "english": "Ma'ale Gamla"
+    },
+    {
+      "hebrew": "מעלה החמישה",
+      "english": "Ma'ale HaHamisha"
+    },
+    {
+      "hebrew": "מעלה חבר",
+      "english": "Ma'ale Hever"
+    },
+    {
+      "hebrew": "מעלה לבונה",
+      "english": "Ma'ale Levona"
+    },
+    {
+      "hebrew": "מעלה מכמש",
+      "english": "Ma'ale Mikhmas"
+    },
+    {
+      "hebrew": "מעלה עירון",
+      "english": "Ma'ale Iron"
+    },
+    {
+      "hebrew": "מעלה עמוס",
+      "english": "Ma'ale Amos"
+    },
+    {
+      "hebrew": "מעלה צביה",
+      "english": "Ma'ale Tzviya"
+    },
+    {
+      "hebrew": "מעלה רחבעם",
+      "english": "Ma'ale Rehav'am"
+    },
+    {
+      "hebrew": "מעלות תרשיחא",
+      "english": "Ma'alot-Tarshiha"
+    },
+    {
+      "hebrew": "מענית",
+      "english": "Ma'anit"
+    },
+    {
+      "hebrew": "מעש",
+      "english": "Ma'as"
+    },
+    {
+      "hebrew": "מפלסים",
+      "english": "Mefalsim"
+    },
+    {
+      "hebrew": "מפעל אגריגדה",
+      "english": "Agregada Factory"
+    },
+    {
+      "hebrew": "מצדה",
+      "english": "Masada"
+    },
+    {
+      "hebrew": "מצובה",
+      "english": "Matzuva"
+    },
+    {
+      "hebrew": "מצוק עורבים",
+      "english": "Matzok Orvim"
+    },
+    {
+      "hebrew": "מצוקי דרגות",
+      "english": "Metzukei Dragot"
+    },
+    {
+      "hebrew": "מצליח",
+      "english": "Matzliah"
+    },
+    {
+      "hebrew": "מצפה",
+      "english": "Mitzpe"
+    },
+    {
+      "hebrew": "מצפה אבי\"ב",
+      "english": "Mitzpe Aviv"
+    },
+    {
+      "hebrew": "מצפה אילן",
+      "english": "Mitzpe Ilan"
+    },
+    {
+      "hebrew": "מצפה יריחו",
+      "english": "Mitzpe Yeriho"
+    },
+    {
+      "hebrew": "מצפה נטופה",
+      "english": "Mitzpe Netofa"
+    },
+    {
+      "hebrew": "מצפה רמון",
+      "english": "Mitzpe Ramon"
+    },
+    {
+      "hebrew": "מצפה שלם",
+      "english": "Mitzpe Shalem"
+    },
+    {
+      "hebrew": "מצר",
+      "english": "Metzer"
+    },
+    {
+      "hebrew": "מקווה ישראל",
+      "english": "Mikveh Israel"
+    },
+    {
+      "hebrew": "מרגליות",
+      "english": "Margaliot"
+    },
+    {
+      "hebrew": "מרום גולן",
+      "english": "Merom Golan"
+    },
+    {
+      "hebrew": "מרחב עם",
+      "english": "Merhav Am"
+    },
+    {
+      "hebrew": "מרחביה מושב",
+      "english": "Merhavia Moshav"
+    },
+    {
+      "hebrew": "מרחביה קיבוץ",
+      "english": "Merhavia Kibbutz"
+    },
+    {
+      "hebrew": "מרחצאות עין גדי",
+      "english": "Ein Gedi Spa"
+    },
+    {
+      "hebrew": "מרכז אזורי דרום השרון",
+      "english": "Drom HaSharon Regional Center"
+    },
+    {
+      "hebrew": "מרכז אזורי מבואות חרמון",
+      "english": "Mevo'ot Hermon Regional Center"
+    },
+    {
+      "hebrew": "מרכז אזורי מגילות",
+      "english": "Megilot Regional Center"
+    },
+    {
+      "hebrew": "מרכז אזורי מרום גליל",
+      "english": "Merom Galil Regional Center"
+    },
+    {
+      "hebrew": "מרכז אזורי משגב",
+      "english": "Misgav Regional Center"
+    },
+    {
+      "hebrew": "מרכז חבר",
+      "english": "Haver Center"
+    },
+    {
+      "hebrew": "מרכז ימי קיסריה",
+      "english": "Caesarea Maritime Center"
+    },
+    {
+      "hebrew": "מרכז מיר\"ב",
+      "english": "MIRAV Center"
+    },
+    {
+      "hebrew": "מרכז שפירא",
+      "english": "Merkaz Shapira"
+    },
+    {
+      "hebrew": "מרעית",
+      "english": "Mar'it"
+    },
+    {
+      "hebrew": "משאבי שדה",
+      "english": "Mashabei Sadeh"
+    },
+    {
+      "hebrew": "משגב דב",
+      "english": "Misgav Dov"
+    },
+    {
+      "hebrew": "משגב עם",
+      "english": "Misgav Am"
+    },
+    {
+      "hebrew": "משהד",
+      "english": "Mashhad"
+    },
+    {
+      "hebrew": "משואה",
+      "english": "Massu'a"
+    },
+    {
+      "hebrew": "משואות יצחק",
+      "english": "Massuot Yitzhak"
+    },
+    {
+      "hebrew": "משכיות",
+      "english": "Maskiot"
+    },
+    {
+      "hebrew": "משמר איילון",
+      "english": "Mishmar Ayalon"
+    },
+    {
+      "hebrew": "משמר דוד",
+      "english": "Mishmar David"
+    },
+    {
+      "hebrew": "משמר הירדן",
+      "english": "Mishmar HaYarden"
+    },
+    {
+      "hebrew": "משמר הנגב",
+      "english": "Mishmar HaNegev"
+    },
+    {
+      "hebrew": "משמר העמק",
+      "english": "Mishmar HaEmek"
+    },
+    {
+      "hebrew": "משמר השבעה",
+      "english": "Mishmar HaShiv'a"
+    },
+    {
+      "hebrew": "משמר השרון",
+      "english": "Mishmar HaSharon"
+    },
+    {
+      "hebrew": "משמרות",
+      "english": "Mishmarot"
+    },
+    {
+      "hebrew": "משמרת",
+      "english": "Mishmeret"
+    },
+    {
+      "hebrew": "משען",
+      "english": "Mish'an"
+    },
+    {
+      "hebrew": "מתחם \"חנה וסע\" שפיים",
+      "english": "Shefayim Park and Ride"
+    },
+    {
+      "hebrew": "מתחם בני דרום",
+      "english": "Bnei Darom Complex"
+    },
+    {
+      "hebrew": "מתחם סקי גלבוע",
+      "english": "Gilboa Ski Complex"
+    },
+    {
+      "hebrew": "מתחם פי גלילות",
+      "english": "Pi Glilot Complex"
+    },
+    {
+      "hebrew": "מתחם צומת שוקת",
+      "english": "Shoket Junction Complex"
+    },
+    {
+      "hebrew": "מתחם שביל התפוזים",
+      "english": "Oranges Trail Complex"
+    },
+    {
+      "hebrew": "מתן",
+      "english": "Matan"
+    },
+    {
+      "hebrew": "מתת",
+      "english": "Mattat"
+    },
+    {
+      "hebrew": "מתתיהו",
+      "english": "Matityahu"
+    },
+    {
+      "hebrew": "נאות גולן",
+      "english": "Ne'ot Golan"
+    },
+    {
+      "hebrew": "נאות הכיכר",
+      "english": "Ne'ot HaKikar"
+    },
+    {
+      "hebrew": "נאות חובב",
+      "english": "Neot Hovav"
+    },
+    {
+      "hebrew": "נאות מרדכי",
+      "english": "Ne'ot Mordechai"
+    },
+    {
+      "hebrew": "נאות סמדר",
+      "english": "Neot Smadar"
+    },
+    {
+      "hebrew": "נאות קדומים",
+      "english": "Neot Kedumim"
+    },
+    {
+      "hebrew": "נאעורה",
+      "english": "Na'ura"
+    },
+    {
+      "hebrew": "נבטים",
+      "english": "Nevatim"
+    },
+    {
+      "hebrew": "נבי סמואל",
+      "english": "Nabi Samuel"
+    },
+    {
+      "hebrew": "נבי שועייב",
+      "english": "Nabi Shu'ayb"
+    },
+    {
+      "hebrew": "נגבה",
+      "english": "Negba"
+    },
+    {
+      "hebrew": "נגוהות",
+      "english": "Negohot"
+    },
+    {
+      "hebrew": "נהורה",
+      "english": "Nehora"
+    },
+    {
+      "hebrew": "נהלל",
+      "english": "Nahalal"
+    },
+    {
+      "hebrew": "נהריה",
+      "english": "Nahariya"
+    },
+    {
+      "hebrew": "נוב",
+      "english": "Nov"
+    },
+    {
+      "hebrew": "נוגה",
+      "english": "Nogah"
+    },
+    {
+      "hebrew": "נוה איתן",
+      "english": "Neve Eitan"
+    },
+    {
+      "hebrew": "נווה",
+      "english": "Nave"
+    },
+    {
+      "hebrew": "נווה אור",
+      "english": "Neve Or"
+    },
+    {
+      "hebrew": "נווה אטי\"ב",
+      "english": "Neve Ativ"
+    },
+    {
+      "hebrew": "נווה אילן",
+      "english": "Neve Ilan"
+    },
+    {
+      "hebrew": "נווה דניאל",
+      "english": "Neve Daniel"
+    },
+    {
+      "hebrew": "נווה זוהר",
+      "english": "Neve Zohar"
+    },
+    {
+      "hebrew": "נווה זיו",
+      "english": "Neve Ziv"
+    },
+    {
+      "hebrew": "נווה חריף",
+      "english": "Neve Harif"
+    },
+    {
+      "hebrew": "נווה ים",
+      "english": "Neve Yam"
+    },
+    {
+      "hebrew": "נווה ימין",
+      "english": "Neve Yamin"
+    },
+    {
+      "hebrew": "נווה ירק",
+      "english": "Neve Yerek"
+    },
+    {
+      "hebrew": "נווה מבטח",
+      "english": "Neve Mivtah"
+    },
+    {
+      "hebrew": "נווה מיכאל - רוגלית",
+      "english": "Neve Michael - Roglit"
+    },
+    {
+      "hebrew": "נווה שלום",
+      "english": "Neve Shalom"
+    },
+    {
+      "hebrew": "נועם",
+      "english": "No'am"
+    },
+    {
+      "hebrew": "נוף איילון",
+      "english": "Nof Ayalon"
+    },
+    {
+      "hebrew": "נוף הגליל",
+      "english": "Nof HaGalil"
+    },
+    {
+      "hebrew": "נופי נחמיה",
+      "english": "Nofei Nehemia"
+    },
+    {
+      "hebrew": "נופי פרת",
+      "english": "Nofei Prat"
+    },
+    {
+      "hebrew": "נופים",
+      "english": "Nofim"
+    },
+    {
+      "hebrew": "נופית",
+      "english": "Nofit"
+    },
+    {
+      "hebrew": "נופך",
+      "english": "Nofekh"
+    },
+    {
+      "hebrew": "נוקדים",
+      "english": "Nokdim"
+    },
+    {
+      "hebrew": "נורדיה",
+      "english": "Nordiya"
+    },
+    {
+      "hebrew": "נורית",
+      "english": "Nurit"
+    },
+    {
+      "hebrew": "נחושה",
+      "english": "Nehusha"
+    },
+    {
+      "hebrew": "נחל עוז",
+      "english": "Nahal Oz"
+    },
+    {
+      "hebrew": "נחלה",
+      "english": "Nahala"
+    },
+    {
+      "hebrew": "נחליאל",
+      "english": "Nahaliel"
+    },
+    {
+      "hebrew": "נחלים",
+      "english": "Nehalim"
+    },
+    {
+      "hebrew": "נחם",
+      "english": "Naham"
+    },
+    {
+      "hebrew": "נחף",
+      "english": "Nahef"
+    },
+    {
+      "hebrew": "נחשולים",
+      "english": "Nahsholim"
+    },
+    {
+      "hebrew": "נחשון",
+      "english": "Nahshon"
+    },
+    {
+      "hebrew": "נחשונים",
+      "english": "Nahshonim"
+    },
+    {
+      "hebrew": "נטועה",
+      "english": "Netua"
+    },
+    {
+      "hebrew": "נטור",
+      "english": "Natur"
+    },
+    {
+      "hebrew": "נטע",
+      "english": "Neta"
+    },
+    {
+      "hebrew": "נטעים",
+      "english": "Neta'im"
+    },
+    {
+      "hebrew": "נטף",
+      "english": "Nataf"
+    },
+    {
+      "hebrew": "נילי",
+      "english": "Nili"
+    },
+    {
+      "hebrew": "נין",
+      "english": "Nein"
+    },
+    {
+      "hebrew": "ניצן",
+      "english": "Nitzan"
+    },
+    {
+      "hebrew": "ניצנה",
+      "english": "Nitzana"
+    },
+    {
+      "hebrew": "ניצני עוז",
+      "english": "Nitzanei Oz"
+    },
+    {
+      "hebrew": "ניצנים",
+      "english": "Nitzanim"
+    },
+    {
+      "hebrew": "ניר אליהו",
+      "english": "Nir Eliyahu"
+    },
+    {
+      "hebrew": "ניר בנים",
+      "english": "Nir Banim"
+    },
+    {
+      "hebrew": "ניר גלים",
+      "english": "Nir Galim"
+    },
+    {
+      "hebrew": "ניר דוד",
+      "english": "Nir David"
+    },
+    {
+      "hebrew": "ניר ח\"ן",
+      "english": "Nir Hen"
+    },
+    {
+      "hebrew": "ניר יצחק",
+      "english": "Nir Yitzhak"
+    },
+    {
+      "hebrew": "ניר ישראל",
+      "english": "Nir Israel"
+    },
+    {
+      "hebrew": "ניר משה",
+      "english": "Nir Moshe"
+    },
+    {
+      "hebrew": "ניר עוז",
+      "english": "Nir Oz"
+    },
+    {
+      "hebrew": "ניר עם",
+      "english": "Nir Am"
+    },
+    {
+      "hebrew": "ניר עציון",
+      "english": "Nir Etzion"
+    },
+    {
+      "hebrew": "ניר עקיבא",
+      "english": "Nir Akiva"
+    },
+    {
+      "hebrew": "ניר צבי",
+      "english": "Nir Tzvi"
+    },
+    {
+      "hebrew": "נירים",
+      "english": "Nirim"
+    },
+    {
+      "hebrew": "נירית",
+      "english": "Nirit"
+    },
+    {
+      "hebrew": "נמרוד",
+      "english": "Nimrod"
+    },
+    {
+      "hebrew": "נס הרים",
+      "english": "Nes Harim"
+    },
+    {
+      "hebrew": "נס עמים",
+      "english": "Nes Amim"
+    },
+    {
+      "hebrew": "נס ציונה",
+      "english": "Ness Ziona"
+    },
+    {
+      "hebrew": "נעורים",
+      "english": "Ne'urim"
+    },
+    {
+      "hebrew": "נעלה",
+      "english": "Na'ale"
+    },
+    {
+      "hebrew": "נעמה",
+      "english": "Na'ama"
+    },
+    {
+      "hebrew": "נען",
+      "english": "Na'an"
+    },
+    {
+      "hebrew": "נערן",
+      "english": "Na'aran"
+    },
+    {
+      "hebrew": "נצר חזני",
+      "english": "Netzer Hazani"
+    },
+    {
+      "hebrew": "נצר סרני",
+      "english": "Netzer Sereni"
+    },
+    {
+      "hebrew": "נצרת",
+      "english": "Nazareth"
+    },
+    {
+      "hebrew": "נריה",
+      "english": "Nerya"
+    },
+    {
+      "hebrew": "נשר",
+      "english": "Nesher"
+    },
+    {
+      "hebrew": "נתיב הגדוד",
+      "english": "Netiv HaGdud"
+    },
+    {
+      "hebrew": "נתיב הל\"ה",
+      "english": "Netiv HaLamed-Heh"
+    },
+    {
+      "hebrew": "נתיב העשרה",
+      "english": "Netiv HaAsara"
+    },
+    {
+      "hebrew": "נתיב השיירה",
+      "english": "Netiv HaShayara"
+    },
+    {
+      "hebrew": "נתיבות",
+      "english": "Netivot"
+    },
+    {
+      "hebrew": "נתניה - כל האזורים",
+      "english": "Netanya - All Areas"
+    },
+    {
+      "hebrew": "נתניה - מזרח",
+      "english": "Netanya - East"
+    },
+    {
+      "hebrew": "נתניה - מערב",
+      "english": "Netanya - West"
+    },
+    {
+      "hebrew": "סאג'ור",
+      "english": "Sajur"
+    },
+    {
+      "hebrew": "סאסא",
+      "english": "Sasa"
+    },
+    {
+      "hebrew": "סביון",
+      "english": "Savyon"
+    },
+    {
+      "hebrew": "סגולה",
+      "english": "Segula"
+    },
+    {
+      "hebrew": "סואעד חמירה",
+      "english": "Sawa'id Hamriyye"
+    },
+    {
+      "hebrew": "סולם",
+      "english": "Sulam"
+    },
+    {
+      "hebrew": "סוסיא",
+      "english": "Susya"
+    },
+    {
+      "hebrew": "סופה",
+      "english": "Sufa"
+    },
+    {
+      "hebrew": "סינמה סיטי גלילות",
+      "english": "Cinema City Glilot"
+    },
+    {
+      "hebrew": "סכנין",
+      "english": "Sakhnin"
+    },
+    {
+      "hebrew": "סלמה",
+      "english": "Sallama"
+    },
+    {
+      "hebrew": "סלעית",
+      "english": "Sal'it"
+    },
+    {
+      "hebrew": "סמר",
+      "english": "Samar"
+    },
+    {
+      "hebrew": "סנדלה",
+      "english": "Sandala"
+    },
+    {
+      "hebrew": "סנסנה",
+      "english": "Sansana"
+    },
+    {
+      "hebrew": "סעד",
+      "english": "Sa'ad"
+    },
+    {
+      "hebrew": "סעווה",
+      "english": "Sa'wa"
+    },
+    {
+      "hebrew": "סער",
+      "english": "Sa'ar"
+    },
+    {
+      "hebrew": "ספיר",
+      "english": "Sapir"
+    },
+    {
+      "hebrew": "ספסופה - כפר חושן",
+      "english": "Safsufa - Kfar Hoshen"
+    },
+    {
+      "hebrew": "סתריה",
+      "english": "Sitriya"
+    },
+    {
+      "hebrew": "ע'ג'ר",
+      "english": "Ghajar"
+    },
+    {
+      "hebrew": "עבדון",
+      "english": "Avdon"
+    },
+    {
+      "hebrew": "עבדת",
+      "english": "Avdat"
+    },
+    {
+      "hebrew": "עברון",
+      "english": "Evron"
+    },
+    {
+      "hebrew": "עגור",
+      "english": "Agur"
+    },
+    {
+      "hebrew": "עדי",
+      "english": "Adi"
+    },
+    {
+      "hebrew": "עדי עד",
+      "english": "Adei Ad"
+    },
+    {
+      "hebrew": "עדנים",
+      "english": "Adanim"
+    },
+    {
+      "hebrew": "עוזה",
+      "english": "Uza"
+    },
+    {
+      "hebrew": "עוזייר",
+      "english": "Uzeir"
+    },
+    {
+      "hebrew": "עולש",
+      "english": "Olesh"
+    },
+    {
+      "hebrew": "עומר",
+      "english": "Omer"
+    },
+    {
+      "hebrew": "עופר",
+      "english": "Ofer"
+    },
+    {
+      "hebrew": "עופרים",
+      "english": "Ofraim"
+    },
+    {
+      "hebrew": "עוצם",
+      "english": "Otzem"
+    },
+    {
+      "hebrew": "עזוז",
+      "english": "Ezuz"
+    },
+    {
+      "hebrew": "עזר",
+      "english": "Ezer"
+    },
+    {
+      "hebrew": "עזריאל",
+      "english": "Azri'el"
+    },
+    {
+      "hebrew": "עזריה",
+      "english": "Azarya"
+    },
+    {
+      "hebrew": "עזריקם",
+      "english": "Azrikam"
+    },
+    {
+      "hebrew": "עטרת",
+      "english": "Ateret"
+    },
+    {
+      "hebrew": "עידן",
+      "english": "Idan"
+    },
+    {
+      "hebrew": "עיינות",
+      "english": "Ayanot"
+    },
+    {
+      "hebrew": "עילבון",
+      "english": "Eilabun"
+    },
+    {
+      "hebrew": "עילוט",
+      "english": "Ilut"
+    },
+    {
+      "hebrew": "עין איילה",
+      "english": "Ein Ayala"
+    },
+    {
+      "hebrew": "עין אל אסד",
+      "english": "Ein al-Asad"
+    },
+    {
+      "hebrew": "עין אל סהלה",
+      "english": "Ein al-Sahla"
+    },
+    {
+      "hebrew": "עין בוקק",
+      "english": "Ein Bokek"
+    },
+    {
+      "hebrew": "עין גב",
+      "english": "Ein Gev"
+    },
+    {
+      "hebrew": "עין גדי",
+      "english": "Ein Gedi"
+    },
+    {
+      "hebrew": "עין דור",
+      "english": "Ein Dor"
+    },
+    {
+      "hebrew": "עין הבשור",
+      "english": "Ein HaBesor"
+    },
+    {
+      "hebrew": "עין הוד",
+      "english": "Ein Hod"
+    },
+    {
+      "hebrew": "עין החורש",
+      "english": "Ein HaHoresh"
+    },
+    {
+      "hebrew": "עין המפרץ",
+      "english": "Ein HaMifratz"
+    },
+    {
+      "hebrew": "עין הנצי\"ב",
+      "english": "Ein HaNatziv"
+    },
+    {
+      "hebrew": "עין העמק",
+      "english": "Ein HaEmek"
+    },
+    {
+      "hebrew": "עין השופט",
+      "english": "Ein HaShofet"
+    },
+    {
+      "hebrew": "עין השלושה",
+      "english": "Ein HaShlosha"
+    },
+    {
+      "hebrew": "עין ורד",
+      "english": "Ein Vered"
+    },
+    {
+      "hebrew": "עין זיוון",
+      "english": "Ein Zivan"
+    },
+    {
+      "hebrew": "עין חוד",
+      "english": "Ein Hud"
+    },
+    {
+      "hebrew": "עין חצבה",
+      "english": "Ein Hazeva"
+    },
+    {
+      "hebrew": "עין חרוד",
+      "english": "Ein Harod"
+    },
+    {
+      "hebrew": "עין יהב",
+      "english": "Ein Yahav"
+    },
+    {
+      "hebrew": "עין יעקב",
+      "english": "Ein Ya'akov"
+    },
+    {
+      "hebrew": "עין כמונים",
+      "english": "Ein Kamonim"
+    },
+    {
+      "hebrew": "עין כרמל",
+      "english": "Ein Carmel"
+    },
+    {
+      "hebrew": "עין מאהל",
+      "english": "Ein Mahel"
+    },
+    {
+      "hebrew": "עין נקובא",
+      "english": "Ein Naqquba"
+    },
+    {
+      "hebrew": "עין עירון",
+      "english": "Ein Iron"
+    },
+    {
+      "hebrew": "עין צורים",
+      "english": "Ein Tzurim"
+    },
+    {
+      "hebrew": "עין קנייא",
+      "english": "Ein Qiniyye"
+    },
+    {
+      "hebrew": "עין ראפה",
+      "english": "Ein Rafa"
+    },
+    {
+      "hebrew": "עין שמר",
+      "english": "Ein Shemer"
+    },
+    {
+      "hebrew": "עין שריד",
+      "english": "Ein Sarid"
+    },
+    {
+      "hebrew": "עין תמר",
+      "english": "Ein Tamar"
+    },
+    {
+      "hebrew": "עינבר",
+      "english": "Einbar"
+    },
+    {
+      "hebrew": "עינת",
+      "english": "Einat"
+    },
+    {
+      "hebrew": "עיר אובות",
+      "english": "Ir Ovot"
+    },
+    {
+      "hebrew": "עכו",
+      "english": "Acre"
+    },
+    {
+      "hebrew": "עכו - אזור תעשייה",
+      "english": "Acre - Industrial Zone"
+    },
+    {
+      "hebrew": "עכו - כל האזורים",
+      "english": "Acre - All Areas"
+    },
+    {
+      "hebrew": "עלומים",
+      "english": "Alumim"
+    },
+    {
+      "hebrew": "עלי",
+      "english": "Eli"
+    },
+    {
+      "hebrew": "עלי זהב",
+      "english": "Alei Zahav"
+    },
+    {
+      "hebrew": "עלמה",
+      "english": "Alma"
+    },
+    {
+      "hebrew": "עלמון",
+      "english": "Almon"
+    },
+    {
+      "hebrew": "עמוקה",
+      "english": "Amuka"
+    },
+    {
+      "hebrew": "עמיחי",
+      "english": "Amihai"
+    },
+    {
+      "hebrew": "עמינדב",
+      "english": "Aminadav"
+    },
+    {
+      "hebrew": "עמיעד",
+      "english": "Ami'ad"
+    },
+    {
+      "hebrew": "עמיקם",
+      "english": "Amikam"
+    },
+    {
+      "hebrew": "עמיר",
+      "english": "Amir"
+    },
+    {
+      "hebrew": "עמנואל",
+      "english": "Emmanuel"
+    },
+    {
+      "hebrew": "עמקה",
+      "english": "Amka"
+    },
+    {
+      "hebrew": "ענב",
+      "english": "Enav"
+    },
+    {
+      "hebrew": "עספיא",
+      "english": "Isfiya"
+    },
+    {
+      "hebrew": "עפולה",
+      "english": "Afula"
+    },
+    {
+      "hebrew": "עפרה",
+      "english": "Ofra"
+    },
+    {
+      "hebrew": "עץ אפרים",
+      "english": "Etz Efraim"
+    },
+    {
+      "hebrew": "עצמון - שגב",
+      "english": "Atzmon - Segev"
+    },
+    {
+      "hebrew": "עראבה",
+      "english": "Arraba"
+    },
+    {
+      "hebrew": "ערב אל נעים",
+      "english": "Arab al-Na'im"
+    },
+    {
+      "hebrew": "ערב אל עראמשה",
+      "english": "Arab al-Aramshe"
+    },
+    {
+      "hebrew": "ערד",
+      "english": "Arad"
+    },
+    {
+      "hebrew": "ערוגות",
+      "english": "Arugot"
+    },
+    {
+      "hebrew": "ערערה",
+      "english": "Ar'ara"
+    },
+    {
+      "hebrew": "ערערה בנגב",
+      "english": "Ar'ara BaNegev"
+    },
+    {
+      "hebrew": "עשהאל",
+      "english": "Asahel"
+    },
+    {
+      "hebrew": "עשרת",
+      "english": "Aseret"
+    },
+    {
+      "hebrew": "עתלית",
+      "english": "Atlit"
+    },
+    {
+      "hebrew": "עתניאל",
+      "english": "Otniel"
+    },
+    {
+      "hebrew": "פארן",
+      "english": "Paran"
+    },
+    {
+      "hebrew": "פארק תעשיות מגדל עוז",
+      "english": "Migdal Oz Industrial Park"
+    },
+    {
+      "hebrew": "פארק תעשיות פלמחים",
+      "english": "Palmachim Industrial Park"
+    },
+    {
+      "hebrew": "פארק תעשייה ראם",
+      "english": "Re'em Industrial Park"
+    },
+    {
+      "hebrew": "פדואל",
+      "english": "Peduel"
+    },
+    {
+      "hebrew": "פדויים",
+      "english": "Peduyim"
+    },
+    {
+      "hebrew": "פדיה",
+      "english": "Pedaya"
+    },
+    {
+      "hebrew": "פוריה כפר עבודה",
+      "english": "Poriya Kfar Avoda"
+    },
+    {
+      "hebrew": "פוריה נווה עובד",
+      "english": "Poriya Neve Oved"
+    },
+    {
+      "hebrew": "פוריה עילית",
+      "english": "Poriya Illit"
+    },
+    {
+      "hebrew": "פוריידיס",
+      "english": "Fureidis"
+    },
+    {
+      "hebrew": "פורת",
+      "english": "Porat"
+    },
+    {
+      "hebrew": "פטיש",
+      "english": "Patish"
+    },
+    {
+      "hebrew": "פלך",
+      "english": "Pelekh"
+    },
+    {
+      "hebrew": "פלמחים",
+      "english": "Palmachim"
+    },
+    {
+      "hebrew": "פני קדם",
+      "english": "Pnei Kedem"
+    },
+    {
+      "hebrew": "פנימיית עין כרם",
+      "english": "Ein Kerem Boarding School"
+    },
+    {
+      "hebrew": "פסגות",
+      "english": "Psagot"
+    },
+    {
+      "hebrew": "פסוטה",
+      "english": "Fassuta"
+    },
+    {
+      "hebrew": "פעמי תש\"ז",
+      "english": "Pa'amei Tashaz"
+    },
+    {
+      "hebrew": "פצאל",
+      "english": "Petzael"
+    },
+    {
+      "hebrew": "פקיעין",
+      "english": "Peki'in"
+    },
+    {
+      "hebrew": "פקיעין החדשה",
+      "english": "Peki'in HaHadasha"
+    },
+    {
+      "hebrew": "פרדס חנה כרכור",
+      "english": "Pardes Hanna-Karkur"
+    },
+    {
+      "hebrew": "פרדסיה",
+      "english": "Pardesiya"
+    },
+    {
+      "hebrew": "פרוד",
+      "english": "Parod"
+    },
+    {
+      "hebrew": "פרי גן",
+      "english": "Peri Gan"
+    },
+    {
+      "hebrew": "פתח תקווה",
+      "english": "Petah Tikva"
+    },
+    {
+      "hebrew": "פתחיה",
+      "english": "Petahya"
+    },
+    {
+      "hebrew": "צאלים",
+      "english": "Tze'elim"
+    },
+    {
+      "hebrew": "צבעון",
+      "english": "Tziv'on"
+    },
+    {
+      "hebrew": "צובה",
+      "english": "Tzuba"
+    },
+    {
+      "hebrew": "צוחר, אוהד",
+      "english": "Tzohar, Ohad"
+    },
+    {
+      "hebrew": "צומת בנימינה",
+      "english": "Binyamina Junction"
+    },
+    {
+      "hebrew": "צומת דבירה",
+      "english": "Devira Junction"
+    },
+    {
+      "hebrew": "צומת האלה",
+      "english": "HaEla Junction"
+    },
+    {
+      "hebrew": "צומת הגוש",
+      "english": "HaGush Junction"
+    },
+    {
+      "hebrew": "צופים",
+      "english": "Tzofim"
+    },
+    {
+      "hebrew": "צופית",
+      "english": "Tzofit"
+    },
+    {
+      "hebrew": "צופר",
+      "english": "Tzofar"
+    },
+    {
+      "hebrew": "צוקים",
+      "english": "Tzukim"
+    },
+    {
+      "hebrew": "צור הדסה",
+      "english": "Tzur Hadassah"
+    },
+    {
+      "hebrew": "צור יצחק",
+      "english": "Tzur Yitzhak"
+    },
+    {
+      "hebrew": "צור משה",
+      "english": "Tzur Moshe"
+    },
+    {
+      "hebrew": "צור נתן",
+      "english": "Tzur Natan"
+    },
+    {
+      "hebrew": "צוריאל",
+      "english": "Tzuri'el"
+    },
+    {
+      "hebrew": "צורית גילון",
+      "english": "Tzurit Gilon"
+    },
+    {
+      "hebrew": "ציפורי",
+      "english": "Tzipori"
+    },
+    {
+      "hebrew": "צלפון",
+      "english": "Tzalfon"
+    },
+    {
+      "hebrew": "צמח",
+      "english": "Tzemach"
+    },
+    {
+      "hebrew": "צפריה",
+      "english": "Tzafriya"
+    },
+    {
+      "hebrew": "צפרירים",
+      "english": "Tzafririm"
+    },
+    {
+      "hebrew": "צפת - כל האזורים",
+      "english": "Safed - All Areas"
+    },
+    {
+      "hebrew": "צפת - נוף כנרת",
+      "english": "Safed - Kinneret View"
+    },
+    {
+      "hebrew": "צפת - עיר",
+      "english": "Safed - City"
+    },
+    {
+      "hebrew": "צפת - עכברה",
+      "english": "Safed - Akbara"
+    },
+    {
+      "hebrew": "צרופה",
+      "english": "Tzrufa"
+    },
+    {
+      "hebrew": "צרעה",
+      "english": "Tzora"
+    },
+    {
+      "hebrew": "קבוצת גבע",
+      "english": "Kvutzat Geva"
+    },
+    {
+      "hebrew": "קבוצת יבנה",
+      "english": "Kvutzat Yavne"
+    },
+    {
+      "hebrew": "קדומים",
+      "english": "Kedumim"
+    },
+    {
+      "hebrew": "קדימה צורן",
+      "english": "Kadima-Tzoran"
+    },
+    {
+      "hebrew": "קדיתא",
+      "english": "Kadita"
+    },
+    {
+      "hebrew": "קדמה",
+      "english": "Kedma"
+    },
+    {
+      "hebrew": "קדמת צבי",
+      "english": "Kidmat Tzvi"
+    },
+    {
+      "hebrew": "קדרון",
+      "english": "Kidron"
+    },
+    {
+      "hebrew": "קדרים",
+      "english": "Kadoorie"
+    },
+    {
+      "hebrew": "קדש ברנע",
+      "english": "Kadesh Barnea"
+    },
+    {
+      "hebrew": "קוממיות",
+      "english": "Komemiyut"
+    },
+    {
+      "hebrew": "קורנית",
+      "english": "Kornit"
+    },
+    {
+      "hebrew": "קטורה",
+      "english": "Ketura"
+    },
+    {
+      "hebrew": "קיבוץ דן",
+      "english": "Kibbutz Dan"
+    },
+    {
+      "hebrew": "קיבוץ מגידו",
+      "english": "Kibbutz Megiddo"
+    },
+    {
+      "hebrew": "קידה",
+      "english": "Kida"
+    },
+    {
+      "hebrew": "קידר",
+      "english": "Kedar"
+    },
+    {
+      "hebrew": "קיסריה",
+      "english": "Caesarea"
+    },
+    {
+      "hebrew": "קלחים",
+      "english": "Kalachim"
+    },
+    {
+      "hebrew": "קליה",
+      "english": "Kalya"
+    },
+    {
+      "hebrew": "קלנסווה",
+      "english": "Qalansawe"
+    },
+    {
+      "hebrew": "קסר א-סר",
+      "english": "Qasr al-Sir"
+    },
+    {
+      "hebrew": "קציר",
+      "english": "Katzir"
+    },
+    {
+      "hebrew": "קצרין",
+      "english": "Katzrin"
+    },
+    {
+      "hebrew": "קצרין - אזור תעשייה",
+      "english": "Katzrin - Industrial Zone"
+    },
+    {
+      "hebrew": "קריית אונו",
+      "english": "Kiryat Ono"
+    },
+    {
+      "hebrew": "קריית ארבע",
+      "english": "Kiryat Arba"
+    },
+    {
+      "hebrew": "קריית אתא",
+      "english": "Kiryat Ata"
+    },
+    {
+      "hebrew": "קריית ביאליק",
+      "english": "Kiryat Bialik"
+    },
+    {
+      "hebrew": "קריית ביאליק - כל האזורים",
+      "english": "Kiryat Bialik - All Areas"
+    },
+    {
+      "hebrew": "קריית גת, כרמי גת",
+      "english": "Kiryat Gat, Karmei Gat"
+    },
+    {
+      "hebrew": "קריית חינוך מרחבים",
+      "english": "Merhavim Educational Campus"
+    },
+    {
+      "hebrew": "קריית טבעון - בית זייד",
+      "english": "Kiryat Tiv'on - Beit Zayid"
+    },
+    {
+      "hebrew": "קריית ים",
+      "english": "Kiryat Yam"
+    },
+    {
+      "hebrew": "קריית יערים",
+      "english": "Kiryat Ye'arim"
+    },
+    {
+      "hebrew": "קריית מוצקין",
+      "english": "Kiryat Motzkin"
+    },
+    {
+      "hebrew": "קריית מלאכי",
+      "english": "Kiryat Malakhi"
+    },
+    {
+      "hebrew": "קריית נטפים",
+      "english": "Kiryat Netafim"
+    },
+    {
+      "hebrew": "קריית ענבים",
+      "english": "Kiryat Anavim"
+    },
+    {
+      "hebrew": "קריית עקרון",
+      "english": "Kiryat Ekron"
+    },
+    {
+      "hebrew": "קריית שמונה",
+      "english": "Kiryat Shmona"
+    },
+    {
+      "hebrew": "קרני שומרון",
+      "english": "Karnei Shomron"
+    },
+    {
+      "hebrew": "קשת",
+      "english": "Keshet"
+    },
+    {
+      "hebrew": "ראמה",
+      "english": "Rama"
+    },
+    {
+      "hebrew": "ראס אל-עין",
+      "english": "Ras al-Ein"
+    },
+    {
+      "hebrew": "ראס עלי",
+      "english": "Ras Ali"
+    },
+    {
+      "hebrew": "ראש הנקרה",
+      "english": "Rosh HaNikra"
+    },
+    {
+      "hebrew": "ראש העין",
+      "english": "Rosh HaAyin"
+    },
+    {
+      "hebrew": "ראש פינה",
+      "english": "Rosh Pina"
+    },
+    {
+      "hebrew": "ראש צורים",
+      "english": "Rosh Tzurim"
+    },
+    {
+      "hebrew": "ראשון לציון - כל האזורים",
+      "english": "Rishon LeZion - All Areas"
+    },
+    {
+      "hebrew": "ראשון לציון - מזרח",
+      "english": "Rishon LeZion - East"
+    },
+    {
+      "hebrew": "ראשון לציון - מערב",
+      "english": "Rishon LeZion - West"
+    },
+    {
+      "hebrew": "רבבה",
+      "english": "Revava"
+    },
+    {
+      "hebrew": "רבדים",
+      "english": "Revadim"
+    },
+    {
+      "hebrew": "רביבים",
+      "english": "Revivim"
+    },
+    {
+      "hebrew": "רביד",
+      "english": "Ravid"
+    },
+    {
+      "hebrew": "רגבה",
+      "english": "Regba"
+    },
+    {
+      "hebrew": "רגבים",
+      "english": "Regavim"
+    },
+    {
+      "hebrew": "רהט",
+      "english": "Rahat"
+    },
+    {
+      "hebrew": "רווחה",
+      "english": "Revaha"
+    },
+    {
+      "hebrew": "רוויה",
+      "english": "Revaya"
+    },
+    {
+      "hebrew": "רוחמה",
+      "english": "Ruhama"
+    },
+    {
+      "hebrew": "רומאנה",
+      "english": "Rumana"
+    },
+    {
+      "hebrew": "רומת אל הייב",
+      "english": "Rumat al-Heib"
+    },
+    {
+      "hebrew": "רועי",
+      "english": "Ro'i"
+    },
+    {
+      "hebrew": "רותם",
+      "english": "Rotem"
+    },
+    {
+      "hebrew": "רחוב",
+      "english": "Rehov"
+    },
+    {
+      "hebrew": "רחובות",
+      "english": "Rehovot"
+    },
+    {
+      "hebrew": "רחלים",
+      "english": "Rechelim"
+    },
+    {
+      "hebrew": "רטורנו - גבעת שמש",
+      "english": "Retorno - Giv'at Shemesh"
+    },
+    {
+      "hebrew": "ריחאנייה",
+      "english": "Rehaniya"
+    },
+    {
+      "hebrew": "ריחן",
+      "english": "Reihan"
+    },
+    {
+      "hebrew": "ריינה",
+      "english": "Reineh"
+    },
+    {
+      "hebrew": "רימונים",
+      "english": "Rimonim"
+    },
+    {
+      "hebrew": "רינתיה",
+      "english": "Rinnatya"
+    },
+    {
+      "hebrew": "רכסים",
+      "english": "Rechasim"
+    },
+    {
+      "hebrew": "רם און",
+      "english": "Ram On"
+    },
+    {
+      "hebrew": "רמות",
+      "english": "Ramot"
+    },
+    {
+      "hebrew": "רמות השבים",
+      "english": "Ramot HaShavim"
+    },
+    {
+      "hebrew": "רמות מאיר",
+      "english": "Ramot Meir"
+    },
+    {
+      "hebrew": "רמות מנשה",
+      "english": "Ramot Menashe"
+    },
+    {
+      "hebrew": "רמות נפתלי",
+      "english": "Ramot Naftali"
+    },
+    {
+      "hebrew": "רמלה",
+      "english": "Ramla"
+    },
+    {
+      "hebrew": "רמת גן - כל האזורים",
+      "english": "Ramat Gan - All Areas"
+    },
+    {
+      "hebrew": "רמת גן - מזרח",
+      "english": "Ramat Gan - East"
+    },
+    {
+      "hebrew": "רמת גן - מערב",
+      "english": "Ramat Gan - West"
+    },
+    {
+      "hebrew": "רמת דוד",
+      "english": "Ramat David"
+    },
+    {
+      "hebrew": "רמת הכובש",
+      "english": "Ramat HaKovesh"
+    },
+    {
+      "hebrew": "רמת הנדיב",
+      "english": "Ramat HaNadiv"
+    },
+    {
+      "hebrew": "רמת השופט",
+      "english": "Ramat HaShofet"
+    },
+    {
+      "hebrew": "רמת השרון",
+      "english": "Ramat HaSharon"
+    },
+    {
+      "hebrew": "רמת טראמפ",
+      "english": "Ramat Trump"
+    },
+    {
+      "hebrew": "רמת יוחנן",
+      "english": "Ramat Yohanan"
+    },
+    {
+      "hebrew": "רמת ישי",
+      "english": "Ramat Yishai"
+    },
+    {
+      "hebrew": "רמת מגשימים",
+      "english": "Ramat Magshimim"
+    },
+    {
+      "hebrew": "רמת צבי",
+      "english": "Ramat Tzvi"
+    },
+    {
+      "hebrew": "רמת רזיאל",
+      "english": "Ramat Raziel"
+    },
+    {
+      "hebrew": "רנן",
+      "english": "Rannen"
+    },
+    {
+      "hebrew": "רעים",
+      "english": "Re'im"
+    },
+    {
+      "hebrew": "רעננה",
+      "english": "Ra'anana"
+    },
+    {
+      "hebrew": "רפטינג נהר הירדן",
+      "english": "Jordan River Rafting"
+    },
+    {
+      "hebrew": "רקפת",
+      "english": "Rakefet"
+    },
+    {
+      "hebrew": "רשפון",
+      "english": "Rishpon"
+    },
+    {
+      "hebrew": "רשפים",
+      "english": "Reshafim"
+    },
+    {
+      "hebrew": "רתמים",
+      "english": "Retamim"
+    },
+    {
+      "hebrew": "שאנטי במדבר",
+      "english": "Shanti BaMidbar"
+    },
+    {
+      "hebrew": "שאר ישוב",
+      "english": "She'ar Yashuv"
+    },
+    {
+      "hebrew": "שבות רחל",
+      "english": "Shvut Rachel"
+    },
+    {
+      "hebrew": "שבי דרום",
+      "english": "Shavei Darom"
+    },
+    {
+      "hebrew": "שבי ציון",
+      "english": "Shavei Tzion"
+    },
+    {
+      "hebrew": "שבי שומרון",
+      "english": "Shavei Shomron"
+    },
+    {
+      "hebrew": "שבלי",
+      "english": "Shibli"
+    },
+    {
+      "hebrew": "שגב שלום",
+      "english": "Segev Shalom"
+    },
+    {
+      "hebrew": "שדה אילן",
+      "english": "Sdei Ilan"
+    },
+    {
+      "hebrew": "שדה אליהו",
+      "english": "Sdei Eliyahu"
+    },
+    {
+      "hebrew": "שדה אליעזר",
+      "english": "Sdei Eliezer"
+    },
+    {
+      "hebrew": "שדה בוקר",
+      "english": "Sde Boker"
+    },
+    {
+      "hebrew": "שדה בר",
+      "english": "Sdei Bar"
+    },
+    {
+      "hebrew": "שדה דוד",
+      "english": "Sdei David"
+    },
+    {
+      "hebrew": "שדה ורבורג",
+      "english": "Sdei Warburg"
+    },
+    {
+      "hebrew": "שדה יואב",
+      "english": "Sdei Yoav"
+    },
+    {
+      "hebrew": "שדה יעקב",
+      "english": "Sdei Ya'akov"
+    },
+    {
+      "hebrew": "שדה יצחק",
+      "english": "Sdei Yitzhak"
+    },
+    {
+      "hebrew": "שדה משה",
+      "english": "Sdei Moshe"
+    },
+    {
+      "hebrew": "שדה נחום",
+      "english": "Sdei Nahum"
+    },
+    {
+      "hebrew": "שדה נחמיה",
+      "english": "Sdei Nehemia"
+    },
+    {
+      "hebrew": "שדה ניצן",
+      "english": "Sdei Nitzan"
+    },
+    {
+      "hebrew": "שדה עוזיהו",
+      "english": "Sdei Uziyahu"
+    },
+    {
+      "hebrew": "שדה צבי",
+      "english": "Sdei Tzvi"
+    },
+    {
+      "hebrew": "שדות ים",
+      "english": "Sdot Yam"
+    },
+    {
+      "hebrew": "שדות מיכה",
+      "english": "Sdot Micha"
+    },
+    {
+      "hebrew": "שדי אברהם",
+      "english": "Sdei Avraham"
+    },
+    {
+      "hebrew": "שדי חמד",
+      "english": "Sdei Hemed"
+    },
+    {
+      "hebrew": "שדי תרומות",
+      "english": "Sdei Trumot"
+    },
+    {
+      "hebrew": "שדמה",
+      "english": "Shedema"
+    },
+    {
+      "hebrew": "שדמות דבורה",
+      "english": "Shadmot Devora"
+    },
+    {
+      "hebrew": "שדמות מחולה",
+      "english": "Shadmot Mehola"
+    },
+    {
+      "hebrew": "שדרות, איבים",
+      "english": "Sderot, Ivim"
+    },
+    {
+      "hebrew": "שואבה",
+      "english": "Sho'eva"
+    },
+    {
+      "hebrew": "שובל",
+      "english": "Shoval"
+    },
+    {
+      "hebrew": "שוהם",
+      "english": "Shoham"
+    },
+    {
+      "hebrew": "שומרה",
+      "english": "Shomera"
+    },
+    {
+      "hebrew": "שומריה",
+      "english": "Shomriya"
+    },
+    {
+      "hebrew": "שומרת",
+      "english": "Shumrat"
+    },
+    {
+      "hebrew": "שוקדה",
+      "english": "Shokeda"
+    },
+    {
+      "hebrew": "שורש",
+      "english": "Shoresh"
+    },
+    {
+      "hebrew": "שורשים",
+      "english": "Shorashim"
+    },
+    {
+      "hebrew": "שושנת העמקים",
+      "english": "Shoshanat HaAmakim"
+    },
+    {
+      "hebrew": "שזור",
+      "english": "Shezor"
+    },
+    {
+      "hebrew": "שחר",
+      "english": "Shahar"
+    },
+    {
+      "hebrew": "שחרות",
+      "english": "Shaharut"
+    },
+    {
+      "hebrew": "שיבולים",
+      "english": "Shibolim"
+    },
+    {
+      "hebrew": "שיטים",
+      "english": "Shittim"
+    },
+    {
+      "hebrew": "שייח' דנון",
+      "english": "Sheikh Danun"
+    },
+    {
+      "hebrew": "שילה",
+      "english": "Shilo"
+    },
+    {
+      "hebrew": "שילת",
+      "english": "Shilat"
+    },
+    {
+      "hebrew": "שכניה",
+      "english": "Shekhanya"
+    },
+    {
+      "hebrew": "שלווה",
+      "english": "Shalva"
+    },
+    {
+      "hebrew": "שלוחות",
+      "english": "Shluhot"
+    },
+    {
+      "hebrew": "שלומי",
+      "english": "Shlomi"
+    },
+    {
+      "hebrew": "שלומית",
+      "english": "Shlomit"
+    },
+    {
+      "hebrew": "שלפים",
+      "english": "Shlafim"
+    },
+    {
+      "hebrew": "שמיר",
+      "english": "Shamir"
+    },
+    {
+      "hebrew": "שמעה",
+      "english": "Shim'a"
+    },
+    {
+      "hebrew": "שמשית",
+      "english": "Shimshit"
+    },
+    {
+      "hebrew": "שני ליבנה",
+      "english": "Shani Livne"
+    },
+    {
+      "hebrew": "שניר",
+      "english": "Snir"
+    },
+    {
+      "hebrew": "שעב",
+      "english": "Sha'ab"
+    },
+    {
+      "hebrew": "שעל",
+      "english": "Sha'al"
+    },
+    {
+      "hebrew": "שעלבים",
+      "english": "Sha'alvim"
+    },
+    {
+      "hebrew": "שער אפרים",
+      "english": "Sha'ar Efraim"
+    },
+    {
+      "hebrew": "שער הגולן",
+      "english": "Sha'ar HaGolan"
+    },
+    {
+      "hebrew": "שער הגיא",
+      "english": "Sha'ar HaGai"
+    },
+    {
+      "hebrew": "שער העמקים",
+      "english": "Sha'ar HaAmakim"
+    },
+    {
+      "hebrew": "שער מנשה",
+      "english": "Sha'ar Menashe"
+    },
+    {
+      "hebrew": "שערי תקווה",
+      "english": "Sha'arei Tikva"
+    },
+    {
+      "hebrew": "שפיים",
+      "english": "Shefayim"
+    },
+    {
+      "hebrew": "שפיר",
+      "english": "Shafir"
+    },
+    {
+      "hebrew": "שפר",
+      "english": "Shefer"
+    },
+    {
+      "hebrew": "שפרעם",
+      "english": "Shfar'am"
+    },
+    {
+      "hebrew": "שקד",
+      "english": "Shaked"
+    },
+    {
+      "hebrew": "שקף",
+      "english": "Shekef"
+    },
+    {
+      "hebrew": "שרונה",
+      "english": "Sharona"
+    },
+    {
+      "hebrew": "שריגים - לי-און",
+      "english": "Srigim - Li-On"
+    },
+    {
+      "hebrew": "שריד",
+      "english": "Sarid"
+    },
+    {
+      "hebrew": "שרשרת",
+      "english": "Sharsheret"
+    },
+    {
+      "hebrew": "שתולה",
+      "english": "Shtula"
+    },
+    {
+      "hebrew": "שתולים",
+      "english": "Shtulim"
+    },
+    {
+      "hebrew": "תארבין",
+      "english": "Tarbin"
+    },
+    {
+      "hebrew": "תאשור",
+      "english": "Ta'ashur"
+    },
+    {
+      "hebrew": "תדהר",
+      "english": "Tidhar"
+    },
+    {
+      "hebrew": "תובל",
+      "english": "Tuval"
+    },
+    {
+      "hebrew": "תומר",
+      "english": "Tomer"
+    },
+    {
+      "hebrew": "תחנת רכבת כפר ברוך",
+      "english": "Kfar Baruch Railway Station"
+    },
+    {
+      "hebrew": "תחנת רכבת כפר יהושוע",
+      "english": "Kfar Yehoshua Railway Station"
+    },
+    {
+      "hebrew": "תחנת רכבת קריית מלאכי - יואב",
+      "english": "Kiryat Malakhi - Yoav Railway Station"
+    },
+    {
+      "hebrew": "תחנת רכבת ראש העין",
+      "english": "Rosh HaAyin Railway Station"
+    },
+    {
+      "hebrew": "תימורים",
+      "english": "Timorim"
+    },
+    {
+      "hebrew": "תירוש",
+      "english": "Tirosh"
+    },
+    {
+      "hebrew": "תל אביב - דרום העיר ויפו",
+      "english": "Tel Aviv - South and Jaffa"
+    },
+    {
+      "hebrew": "תל אביב - כל האזורים",
+      "english": "Tel Aviv - All Areas"
+    },
+    {
+      "hebrew": "תל אביב - מזרח",
+      "english": "Tel Aviv - East"
+    },
+    {
+      "hebrew": "תל אביב - מרכז העיר",
+      "english": "Tel Aviv - City Center"
+    },
+    {
+      "hebrew": "תל אביב - עבר הירקון",
+      "english": "Tel Aviv - North of Yarkon"
+    },
+    {
+      "hebrew": "תל חי",
+      "english": "Tel Hai"
+    },
+    {
+      "hebrew": "תל יוסף",
+      "english": "Tel Yosef"
+    },
+    {
+      "hebrew": "תל יצחק",
+      "english": "Tel Yitzhak"
+    },
+    {
+      "hebrew": "תל מונד",
+      "english": "Tel Mond"
+    },
+    {
+      "hebrew": "תל עדשים",
+      "english": "Tel Adashim"
+    },
+    {
+      "hebrew": "תל ערד",
+      "english": "Tel Arad"
+    },
+    {
+      "hebrew": "תל ציון",
+      "english": "Tel Zion"
+    },
+    {
+      "hebrew": "תל קציר",
+      "english": "Tel Katzir"
+    },
+    {
+      "hebrew": "תל שבע",
+      "english": "Tel Sheva"
+    },
+    {
+      "hebrew": "תל תאומים",
+      "english": "Tel Te'omim"
+    },
+    {
+      "hebrew": "תלם",
+      "english": "Telem"
+    },
+    {
+      "hebrew": "תלמי אליהו",
+      "english": "Talmei Eliyahu"
+    },
+    {
+      "hebrew": "תלמי אלעזר",
+      "english": "Talmei Elazar"
+    },
+    {
+      "hebrew": "תלמי ביל\"ו",
+      "english": "Talmei Bilu"
+    },
+    {
+      "hebrew": "תלמי יוסף",
+      "english": "Talmei Yosef"
+    },
+    {
+      "hebrew": "תלמי יחיאל",
+      "english": "Talmei Yehiel"
+    },
+    {
+      "hebrew": "תלמי יפה",
+      "english": "Talmei Yafe"
+    },
+    {
+      "hebrew": "תלמים",
+      "english": "Telamim"
+    },
+    {
+      "hebrew": "תמרת",
+      "english": "Timrat"
+    },
+    {
+      "hebrew": "תנובות",
+      "english": "Tnuvot"
+    },
+    {
+      "hebrew": "תעוז",
+      "english": "Ta'oz"
+    },
+    {
+      "hebrew": "תעשיון חצב",
+      "english": "Hatzav Industrial Zone"
+    },
+    {
+      "hebrew": "תעשיון צריפין",
+      "english": "Tzrifin Industrial Zone"
+    },
+    {
+      "hebrew": "תפרח",
+      "english": "Tifrach"
+    },
+    {
+      "hebrew": "תקומה",
+      "english": "Tekuma"
+    },
+    {
+      "hebrew": "תקוע",
+      "english": "Tekoa"
+    },
+    {
+      "hebrew": "תרום",
+      "english": "Tarum"
+    }
+  ]

@@ -1,0 +1,322 @@
+title: Rocket Alerts
+views:
+  - title: Alerts
+    path: alerts
+    icon: mdi:alert
+    cards:
+      - type: vertical-stack
+        cards:
+          - type: markdown
+            content: "### 🚨 Primary Alerts"
+
+          - type: custom:button-card
+            entity: binary_sensor.oref_alert
+            name: Jerusalem Center
+            icon: mdi:shield-check
+            show_state: false
+            styles:
+              name:
+                - color: white
+                - font-weight: bold
+              icon:
+                - color: white
+              card:
+                - background-color: green
+            state:
+              - value: 'on'
+                icon: mdi:alert
+                styles:
+                  card:
+                    - background-color: red
+
+      - type: vertical-stack
+        cards:
+          - type: markdown
+            content: "### 🌍 All of Israel"
+
+          - type: custom:button-card
+            entity: binary_sensor.oref_alert_all_areas
+            name: All of Israel
+            icon: mdi:shield-check
+            show_state: false
+            styles:
+              name:
+                - color: white
+                - font-weight: bold
+              icon:
+                - color: white
+              card:
+                - background-color: '#555'
+            state:
+              - value: 'on'
+                icon: mdi:alert
+                styles:
+                  card:
+                    - background-color: red
+
+      - type: vertical-stack
+        cards:
+          - type: markdown
+            content: "### 🏙️ Jerusalem Zones"
+
+          - type: grid
+            columns: 3
+            square: false
+            cards:
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_jerusalemwholezone
+                name: Jerusalem (Zone)
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_atarot
+                name: Atarot
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_jerusalem_south
+                name: South JLM
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_kafr_aqab
+                name: Kafr Aqab
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_east_jerusalem
+                name: East JLM
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_west_jerusalem
+                name: West JLM
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_jerusalem_north
+                name: North JLM
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+
+      - type: vertical-stack
+        cards:
+          - type: markdown
+            content: "### 🏞️ Surrounding Areas"
+
+          - type: grid
+            columns: 3
+            square: false
+            cards:
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_mevaseret_tzion
+                name: Mevaseret Tzion
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_maaleh_adumim
+                name: Ma'aleh Adumim
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_beit_zayit
+                name: Beit Zayit
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_hargilo
+                name: Har Gilo
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_beit_shemesh
+                name: Beit Shemesh
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
+              - type: custom:button-card
+                entity: binary_sensor.oref_alert_salt_sea
+                name: Salt Sea
+                icon: mdi:shield-check
+                show_state: false
+                styles:
+                  name:
+                    - color: white
+                    - font-weight: bold
+                  icon:
+                    - color: white
+                  card:
+                    - background-color: '#444'
+                state:
+                  - value: 'on'
+                    icon: mdi:alert
+                    styles:
+                      card:
+                        - background-color: red
